@@ -1,0 +1,59 @@
+\BOOKMARK [0][-]{chapter*.3}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter*.4}{Preface}{}% 2
+\BOOKMARK [0][-]{chapter*.6}{Acknowledgements}{}% 3
+\BOOKMARK [0][-]{section*.7}{Contents}{}% 4
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 5
+\BOOKMARK [1][-]{section.1.1}{Problem definition}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Background and Analysis}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Learning agent}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{Tree Search}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.3}{DeepMind's AlphaZero}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.4}{Consumer grade hardware}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.5}{Hex}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.5.1}{Complexity}{section.2.5}% 13
+\BOOKMARK [2][-]{subsection.2.5.2}{Strategies and AI agents}{section.2.5}% 14
+\BOOKMARK [1][-]{section.2.6}{Validating performance}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.7}{Recapitulation}{chapter.2}% 16
+\BOOKMARK [0][-]{chapter.3}{Methods}{}% 17
+\BOOKMARK [1][-]{section.3.1}{Residual Neural Network}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.2}{Network anatomy}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.3}{Monte Carlo tree search}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.4}{MCTS with neural network}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.5}{The algorithm}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.5.1}{Self-play}{section.3.5}% 23
+\BOOKMARK [2][-]{subsection.3.5.2}{Training}{section.3.5}% 24
+\BOOKMARK [2][-]{subsection.3.5.3}{Training targets}{section.3.5}% 25
+\BOOKMARK [1][-]{section.3.6}{Half-precision}{chapter.3}% 26
+\BOOKMARK [0][-]{chapter.4}{Implementation}{}% 27
+\BOOKMARK [1][-]{section.4.1}{Software environment}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.2}{Implementation strategy}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.3}{Optimization}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.3.1}{Numba}{section.4.3}% 31
+\BOOKMARK [2][-]{subsection.4.3.2}{Playing and training in batches}{section.4.3}% 32
+\BOOKMARK [2][-]{subsection.4.3.3}{Half-precision}{section.4.3}% 33
+\BOOKMARK [1][-]{section.4.4}{Hex}{chapter.4}% 34
+\BOOKMARK [1][-]{section.4.5}{The learning agent algorithm}{chapter.4}% 35
+\BOOKMARK [2][-]{subsection.4.5.1}{Mitigating horizon effect}{section.4.5}% 36
+\BOOKMARK [2][-]{subsection.4.5.2}{Network structure}{section.4.5}% 37
+\BOOKMARK [2][-]{subsection.4.5.3}{Training}{section.4.5}% 38
+\BOOKMARK [2][-]{subsection.4.5.4}{Network input}{section.4.5}% 39
+\BOOKMARK [2][-]{subsection.4.5.5}{Other parameters}{section.4.5}% 40
+\BOOKMARK [0][-]{chapter.5}{Experiments}{}% 41
+\BOOKMARK [1][-]{section.5.1}{7x7 board}{chapter.5}% 42
+\BOOKMARK [2][-]{subsection.5.1.1}{Training losses}{section.5.1}% 43
+\BOOKMARK [2][-]{subsection.5.1.2}{Win rates against MCTS}{section.5.1}% 44
+\BOOKMARK [1][-]{section.5.2}{9x9 board}{chapter.5}% 45
+\BOOKMARK [2][-]{subsection.5.2.1}{Training losses}{section.5.2}% 46
+\BOOKMARK [2][-]{subsection.5.2.2}{Win rates against MCTS}{section.5.2}% 47
+\BOOKMARK [2][-]{subsection.5.2.3}{Performance against Hexy}{section.5.2}% 48
+\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 49
+\BOOKMARK [0][-]{chapter.7}{Future work}{}% 50
+\BOOKMARK [0][-]{chapter.8}{Related work}{}% 51
+\BOOKMARK [0][-]{chapter.9}{Conclusion}{}% 52
+\BOOKMARK [0][-]{section*.28}{Bibliography}{}% 53
+\BOOKMARK [0][-]{section*.28}{Appendices}{}% 54
+\BOOKMARK [1][-]{section.Alph0.1}{Software user guide}{section*.28}% 55
+\BOOKMARK [1][-]{section.Alph0.2}{Selected matches against Hexy}{section*.28}% 56
+\BOOKMARK [1][-]{section.Alph0.3}{Bayesian Elo estimation tables}{section*.28}% 57
+\BOOKMARK [1][-]{section.Alph0.4}{Game results used in Elo estimation}{section*.28}% 58
+\BOOKMARK [1][-]{section.Alph0.5}{Training loss rate for H2 after 2400 training iterations}{section*.28}% 59

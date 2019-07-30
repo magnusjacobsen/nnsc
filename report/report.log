@@ -1,0 +1,3960 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.5)  15 MAY 2019 14:00
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2018-12-01>
+(config/defs.tex) (config/standard.tex
+("C:\Program Files\MiKTeX 2.9\tex/latex/memoir\memoir.cls"
+Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count80
+\c@@memmarkcntra=\count81
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/ifetex\ifetex.sty"
+Package: ifetex 2018/03/31 v1.2a ifetex
+
+("C:\Program Files\MiKTeX 2.9\tex/plain/ifetex\ifetex.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/memoir\mem12.clo"
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count82
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count97
+\c@chrsinstr=\count98
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count99
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen107
+\ar@mcellbox=\box27
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\ar@cellbox=\box28
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\dcolumn.sty"
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\delarray.sty"
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count100
+\TX@ftn=\toks16
+)
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count109
+\mem@margin@floatbox=\box29
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count110
+\m@mscap@capbox=\box30
+\m@mscap@fbox=\box31
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7592.
+LaTeX Info: Redefining \emph on input line 7600.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count111
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count112
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count113
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count114
+\c@pagenoteshadow=\count115
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count116
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count117
+\c@bvlinectr=\count118
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count119
+LaTeX Info: Redefining \: on input line 12114.
+LaTeX Info: Redefining \! on input line 12116.
+\c@ism@mctr=\count120
+\c@xsm@mctr=\count121
+\c@csm@mctr=\count122
+\c@ksm@mctr=\count123
+\c@xksm@mctr=\count124
+\c@cksm@mctr=\count125
+\c@msm@mctr=\count126
+\c@xmsm@mctr=\count127
+\c@cmsm@mctr=\count128
+\c@bsm@mctr=\count129
+\c@workm@mctr=\count130
+\c@sheetsequence=\count131
+\c@lastsheet=\count132
+\c@lastpage=\count133
+\c@figure=\count134
+\c@lofdepth=\count135
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count136
+\c@lotdepth=\count137
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 766pt by 455pt
+Spine and edge margins: 71.13188pt and 71.13188pt
+Upper and lower margins: 42.67912pt and 36.36772pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 57.13188pt
+Sidecapsep and sidecapwidth: 7pt and 42pt
+Sidebarhsep and sidebarwidth: 7pt and 42pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 42pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen147
+\Hy@linkcounter=\count138
+\Hy@pagecounter=\count139
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count140
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count141
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen148
+\Fld@menulength=\count142
+\Field@Width=\dimen149
+\Fld@charsize=\dimen150
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count143
+\c@Item=\count144
+\c@Hfootnote=\count145
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/memoir\memhfixc.sty"
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count146
+\c@Hpagenote=\count147
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count148
+\c@bookmark@seq@number=\count149
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip185
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/csquotes\csquotes.sty"
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count150
+)
+\csq@reset=\count151
+\csq@gtype=\count152
+\csq@glevel=\count153
+\csq@qlevel=\count154
+\csq@maxlvl=\count155
+\csq@tshold=\count156
+\csq@ltx@everypar=\toks25
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/csquotes\csquotes.def"
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/csquotes\csquotes.cfg"
+File: csquotes.cfg 
+))
+
+Class memoir Warning: You are using the caption package with the memoir class. 
+To prepare we will now reset all captioning macros and configurations to kernel
+ defaults, and then let the caption package take over. Please remember to use
+ the caption package interfaces in order to
+ configure your captions.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen151
+\captionmargin@=\dimen152
+\captionwidth=\dimen153
+\caption@tempdima=\dimen154
+\caption@indent=\dimen155
+\caption@parindent=\dimen156
+\caption@hangindent=\dimen157
+)
+\c@caption@flags=\count157
+\c@ContinuedFloat=\count158
+Package caption Info: hyperref package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip186
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen158
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen159
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count159
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count160
+\leftroot@=\count161
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count162
+\DOTSCASE@=\count163
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box32
+\strutbox@=\box33
+\big@size=\dimen160
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count164
+\c@MaxMatrixCols=\count165
+\dotsspace@=\muskip11
+\c@parentequation=\count166
+\dspbrk@lvl=\count167
+\tag@help=\toks27
+\row@=\count168
+\column@=\count169
+\maxfields@=\count170
+\andhelp@=\toks28
+\eqnshift@=\dimen161
+\alignsep@=\dimen162
+\tagshift@=\dimen163
+\tagwidth@=\dimen164
+\totwidth@=\dimen165
+\lineht@=\dimen166
+\@envbody=\toks29
+\multlinegap=\skip187
+\multlinetaggap=\skip188
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+\c@mv@mathpazo=\count171
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/fira\FiraSans.sty"
+Package: FiraSans 2019/04/04 (Bob Tennent and autoinst) Style file for Fira San
+s fonts.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count172
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/mweights\mweights.sty"
+Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight 
+font packages. 
+LaTeX Info: Redefining \bfseries on input line 22.
+LaTeX Info: Redefining \mdseries on input line 30.
+LaTeX Info: Redefining \rmfamily on input line 38.
+LaTeX Info: Redefining \sffamily on input line 66.
+LaTeX Info: Redefining \ttfamily on input line 94.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fontaxes\fontaxes.sty"
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\charter.sty"
+Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count173
+\lst@gtempboxa=\box34
+\lst@token=\toks33
+\lst@length=\count174
+\lst@currlwidth=\dimen167
+\lst@column=\count175
+\lst@pos=\count176
+\lst@lostspace=\dimen168
+\lst@width=\dimen169
+\lst@newlines=\count177
+\lst@lineno=\count178
+\lst@maxwidth=\dimen170
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count179
+\lst@skipnumbers=\count180
+\lst@framebox=\box35
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/preprint\balance.sty"
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen171
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count181
+\calc@Bcount=\count182
+\calc@Adimen=\dimen172
+\calc@Bdimen=\dimen173
+\calc@Askip=\skip189
+\calc@Bskip=\skip190
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count183
+\calc@Cskip=\skip191
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+)
+\AM@pagewidth=\dimen176
+\AM@pageheight=\dimen177
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box36
+\AM@global@opts=\toks34
+\AM@toc@title=\toks35
+\c@AM@survey=\count184
+\AM@templatesizebox=\box37
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/04/01 3.28 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/04/01 3.28 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/04/01 3.28 Babel common definitions
+\babel@savecnt=\count185
+\U@D=\dimen178
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count186
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count187
+\float@exts=\toks36
+\float@box=\box38
+\@float@everytoks=\toks37
+\@floatcapt=\box39
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\subcaption.sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count188
+\c@subtable=\count189
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count190
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count191
+\c@listtotal=\count192
+\c@listcount=\count193
+\c@liststart=\count194
+\c@liststop=\count266
+\c@citecount=\count267
+\c@citetotal=\count268
+\c@multicitecount=\count269
+\c@multicitetotal=\count270
+\c@instcount=\count271
+\c@maxnames=\count272
+\c@minnames=\count273
+\c@maxitems=\count274
+\c@minitems=\count275
+\c@citecounter=\count276
+\c@maxcitecounter=\count277
+\c@savedcitecounter=\count278
+\c@uniquelist=\count279
+\c@uniquename=\count280
+\c@refsection=\count281
+\c@refsegment=\count282
+\c@maxextratitle=\count283
+\c@maxextratitleyear=\count284
+\c@maxextraname=\count285
+\c@maxextradate=\count286
+\c@maxextraalpha=\count287
+\c@abbrvpenalty=\count288
+\c@highnamepenalty=\count289
+\c@lownamepenalty=\count290
+\c@maxparens=\count291
+\c@parenlevel=\count292
+\blx@tempcnta=\count293
+\blx@tempcntb=\count294
+\blx@tempcntc=\count295
+\blx@maxsection=\count296
+\blx@maxsegment@0=\count297
+\blx@notetype=\count298
+\blx@parenlevel@text=\count299
+\blx@parenlevel@foot=\count300
+\blx@sectionciteorder@0=\count301
+\blx@entrysetcounter=\count302
+\labelnumberwidth=\skip192
+\labelalphawidth=\skip193
+\biblabelsep=\skip194
+\bibnamesep=\skip256
+\bibinitsep=\skip257
+\bibparsep=\skip258
+\bibhang=\skip259
+\blx@bcfin=\read2
+\blx@bcfout=\write4
+\c@mincomprange=\count303
+\c@maxcomprange=\count304
+\c@mincompwidth=\count305
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count306
+\c@savedafterword=\count307
+\c@annotator=\count308
+\c@savedannotator=\count309
+\c@author=\count310
+\c@savedauthor=\count311
+\c@bookauthor=\count312
+\c@savedbookauthor=\count313
+\c@commentator=\count314
+\c@savedcommentator=\count315
+\c@editor=\count316
+\c@savededitor=\count317
+\c@editora=\count318
+\c@savededitora=\count319
+\c@editorb=\count320
+\c@savededitorb=\count321
+\c@editorc=\count322
+\c@savededitorc=\count323
+\c@foreword=\count324
+\c@savedforeword=\count325
+\c@holder=\count326
+\c@savedholder=\count327
+\c@introduction=\count328
+\c@savedintroduction=\count329
+\c@namea=\count330
+\c@savednamea=\count331
+\c@nameb=\count332
+\c@savednameb=\count333
+\c@namec=\count334
+\c@savednamec=\count335
+\c@translator=\count336
+\c@savedtranslator=\count337
+\c@shortauthor=\count338
+\c@savedshortauthor=\count339
+\c@shorteditor=\count340
+\c@savedshorteditor=\count341
+\c@labelname=\count342
+\c@savedlabelname=\count343
+\c@institution=\count344
+\c@savedinstitution=\count345
+\c@lista=\count346
+\c@savedlista=\count347
+\c@listb=\count348
+\c@savedlistb=\count349
+\c@listc=\count350
+\c@savedlistc=\count351
+\c@listd=\count352
+\c@savedlistd=\count353
+\c@liste=\count354
+\c@savedliste=\count355
+\c@listf=\count356
+\c@savedlistf=\count357
+\c@location=\count358
+\c@savedlocation=\count359
+\c@organization=\count360
+\c@savedorganization=\count361
+\c@origlocation=\count362
+\c@savedoriglocation=\count363
+\c@origpublisher=\count364
+\c@savedorigpublisher=\count365
+\c@publisher=\count366
+\c@savedpublisher=\count367
+\c@language=\count368
+\c@savedlanguage=\count369
+\c@origlanguage=\count370
+\c@savedoriglanguage=\count371
+\c@pageref=\count372
+\c@savedpageref=\count373
+\shorthandwidth=\skip260
+\shortjournalwidth=\skip261
+\shortserieswidth=\skip262
+\shorttitlewidth=\skip263
+\shortauthorwidth=\skip264
+\shorteditorwidth=\skip265
+\locallabelnumberwidth=\skip266
+\locallabelalphawidth=\skip267
+\localshorthandwidth=\skip268
+\localshortjournalwidth=\skip269
+\localshortserieswidth=\skip270
+\localshorttitlewidth=\skip271
+\localshortauthorwidth=\skip272
+\localshorteditorwidth=\skip273
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count374
+\c@textcitetotal=\count375
+\c@textcitemaxnames=\count376
+\c@biburlnumpenalty=\count377
+\c@biburlucpenalty=\count378
+\c@biburllcpenalty=\count379
+\c@smartand=\count380
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\numeric.bbx"
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\standard.bbx"
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count381
+\c@bbx:relatedtotal=\count382
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/cbx\numeric.cbx"
+File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
+File: biblatex.cfg 
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titletoc.sty"
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen179
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box40
+\beforetitleunit=\skip274
+\aftertitleunit=\skip275
+\ttl@plus=\dimen180
+\ttl@minus=\dimen181
+\ttl@toksa=\toks38
+\titlewidth=\dimen182
+\titlewidthlast=\dimen183
+\titlewidthfirst=\dimen184
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\ttlkeys.def"
+File: ttlkeys.def 2016/03/15
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+) (report.aux
+(front/titlepage.aux) (front/abstract.aux) (front/preface.aux)
+(front/acknowledgements.aux) (main/1-introduction.aux)
+(main/2-problem-analysis.aux) (main/3-methods.aux) (main/4-implementation.aux)
+(main/5-experiments.aux) (main/6-discussion.aux) (main/7-future-work.aux)
+(main/8-related-work.aux) (main/9-conclusions.aux) (back/appendices.aux))
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 5.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Try loading font information for T1+bch on input line 5.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1bch.fd"
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+)
+\AtBeginShipoutBox=\box41
+Package hyperref Info: Link coloring OFF on input line 5.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count383
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 5.
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
+(report.out) (report.out)
+\@outlinefile=\write5
+\openout5 = `report.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@mv@tabular=\count384
+\c@mv@boldtabular=\count385
+\c@lstlisting=\count386
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count387
+\scratchdimen=\dimen185
+\scratchbox=\box42
+\nofMPsegments=\count388
+\nofMParguments=\count389
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count390
+\MPscratchDim=\dimen186
+\MPnumerator=\count391
+\makeMPintoPDFobject=\count392
+\everyMPtoPDFconversion=\toks40
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `report.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'report.bbl' found.
+ (report.bbl)
+Package biblatex Info: Reference section=0 on input line 5.
+Package biblatex Info: Reference segment=0 on input line 5.
+\openout2 = `front/titlepage.aux'.
+
+
+(front/titlepage.tex
+LaTeX Font Info:    Try loading font information for T1+FiraSans-OsF on input l
+ine 3.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/fira\t1firasans-osf.fd"
+File: T1FiraSans-OsF.fd 2019/04/04 (autoinst) Font definitions for T1/FiraSans-
+OsF.
+)
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/light/n' will be
+(Font)              scaled to size 12.0pt on input line 3.
+<graphics/capture4.png, id=238, 785.93625pt x 497.86pt>
+File: graphics/capture4.png Graphic file (type png)
+<use graphics/capture4.png>
+Package pdftex.def Info: graphics/capture4.png  used on input line 11.
+(pdftex.def)             Requested size: 353.66805pt x 224.03493pt.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/light/n' will be
+(Font)              scaled to size 24.88pt on input line 20.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/light/n' will be
+(Font)              scaled to size 20.74pt on input line 22.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/light/n' will be
+(Font)              scaled to size 14.4pt on input line 26.
+<graphics/ITU_logo_UK.jpg, id=240, 2007.5pt x 220.825pt>
+File: graphics/ITU_logo_UK.jpg Graphic file (type jpg)
+<use graphics/ITU_logo_UK.jpg>
+Package pdftex.def Info: graphics/ITU_logo_UK.jpg  used on input line 31.
+(pdftex.def)             Requested size: 318.49861pt x 35.03282pt.
+) [1
+
+
+{C:/Users/kaneda/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./graphics
+/capture4.png> <./graphics/ITU_logo_UK.jpg>]
+\openout2 = `front/abstract.aux'.
+
+ (front/abstract.tex) [1
+
+
+
+
+
+
+]
+\openout2 = `front/preface.aux'.
+
+ (front/preface.tex)
+[2
+
+
+
+]
+\openout2 = `front/acknowledgements.aux'.
+
+ (front/acknowledgements.tex
+LaTeX Font Info:    Try loading font information for TS1+bch on input line 6.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ts1bch.fd"
+File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
+)) [3
+
+
+
+] (report.toc
+[4
+
+
+]) [5]
+\openout2 = `main/1-introduction.aux'.
+
+ (main/1-introduction.tex
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/light/n' will be
+(Font)              scaled to size 17.28pt on input line 13.
+
+Overfull \hbox (2.76424pt too wide) in paragraph at lines 14--15
+\T1/bch/m/n/12 de-pended on built-in domain-specific knowl-edge. With Al-p-haZe
+ro, Deep-Mind has shown
+ []
+
+[1
+
+
+
+
+]) [2]
+\openout2 = `main/2-problem-analysis.aux'.
+
+ (main/2-problem-analysis.tex [3
+
+
+
+] [4] [5]
+<figures/hex-winning.png, id=392, 776.9025pt x 506.89375pt>
+File: figures/hex-winning.png Graphic file (type png)
+<use figures/hex-winning.png>
+Package pdftex.def Info: figures/hex-winning.png  used on input line 46.
+(pdftex.def)             Requested size: 318.49861pt x 207.81232pt.
+ [6 <./figures/hex-winning.png>] [7]
+<figures/hex-two-bridges.png, id=414, 716.6775pt x 488.82625pt>
+File: figures/hex-two-bridges.png Graphic file (type png)
+<use figures/hex-two-bridges.png>
+Package pdftex.def Info: figures/hex-two-bridges.png  used on input line 69.
+(pdftex.def)             Requested size: 273.00278pt x 186.21089pt.
+ [8 <./figures/hex-two-bridges.png>]) [9]
+\openout2 = `main/3-methods.aux'.
+
+ (main/3-methods.tex
+<figures/res-block-2.png, id=436, 271.46419pt x 165.76932pt>
+File: figures/res-block-2.png Graphic file (type png)
+<use figures/res-block-2.png>
+Package pdftex.def Info: figures/res-block-2.png  used on input line 9.
+(pdftex.def)             Requested size: 295.74722pt x 180.61414pt.
+ [10
+
+
+
+ <./figures/res-block-2.png>]
+<figures/fpa-block-2.png, id=448, 179.31993pt x 209.13132pt>
+File: figures/fpa-block-2.png Graphic file (type png)
+<use figures/fpa-block-2.png>
+Package pdftex.def Info: figures/fpa-block-2.png  used on input line 20.
+(pdftex.def)             Requested size: 204.74861pt x 238.79507pt.
+<figures/network-structure.png, id=451, 289.08pt x 316.63293pt>
+File: figures/network-structure.png Graphic file (type png)
+<use figures/network-structure.png>
+Package pdftex.def Info: figures/network-structure.png  used on input line 32.
+(pdftex.def)             Requested size: 341.25pt x 373.7927pt.
+ [11 <./figures/fpa-block-2.png>] [12 <./figures/network-structure.png>]
+Overfull \hbox (12.41151pt too wide) in paragraph at lines 48--49
+[]\T1/bch/m/n/12 In 2006 Hun-gar-ian com-puter sci-en-tist Lev-ente Koc-sis and
+ math-e-mati-cian Csaba Szepesvári
+ []
+
+<figures/uct.png, id=474, 617.9085pt x 280.94963pt>
+File: figures/uct.png Graphic file (type png)
+<use figures/uct.png>
+Package pdftex.def Info: figures/uct.png  used on input line 52.
+(pdftex.def)             Requested size: 455.0pt x 206.8749pt.
+[13 <./figures/uct.png>] [14]
+<figures/az-algorithm.png, id=499, 550.15538pt x 263.7855pt>
+File: figures/az-algorithm.png Graphic file (type png)
+<use figures/az-algorithm.png>
+Package pdftex.def Info: figures/az-algorithm.png  used on input line 86.
+(pdftex.def)             Requested size: 455.0pt x 218.1691pt.
+ [15 <./figures/az-algorithm.png>]
+<figures/training-targets-az.png, id=507, 351.86456pt x 179.31993pt>
+File: figures/training-targets-az.png Graphic file (type png)
+<use figures/training-targets-az.png>
+Package pdftex.def Info: figures/training-targets-az.png  used on input line 10
+4.
+(pdftex.def)             Requested size: 273.00278pt x 139.13567pt.
+
+Overfull \hbox (5.31949pt too wide) in paragraph at lines 109--110
+[]\T1/bch/m/n/12 Developers from Or-a-cle have ex-per-i-mented with al-ter-na-t
+ive ways of giv-ing an AlphaZero-
+ []
+
+[16 <./figures/training-targets-az.png>]
+<figures/training-targets-util.png, id=518, 344.18588pt x 176.60982pt>
+File: figures/training-targets-util.png Graphic file (type png)
+<use figures/training-targets-util.png>
+Package pdftex.def Info: figures/training-targets-util.png  used on input line 
+115.
+(pdftex.def)             Requested size: 273.00278pt x 140.09421pt.
+<figures/training-targets-q.png, id=520, 327.92513pt x 134.15118pt>
+File: figures/training-targets-q.png Graphic file (type png)
+<use figures/training-targets-q.png>
+Package pdftex.def Info: figures/training-targets-q.png  used on input line 124
+.
+(pdftex.def)             Requested size: 273.00278pt x 111.68727pt.
+ [17 <./figures/training-targets-util.png> <./figures/training-targets-q.png>])
+ [18]
+\openout2 = `main/4-implementation.aux'.
+
+ (main/4-implementation.tex
+[19
+
+
+
+] [20] [21]
+<figures/2d-to-hex.png, id=567, 263.33382pt x 268.30237pt>
+File: figures/2d-to-hex.png Graphic file (type png)
+<use figures/2d-to-hex.png>
+Package pdftex.def Info: figures/2d-to-hex.png  used on input line 39.
+(pdftex.def)             Requested size: 159.25278pt x 162.25996pt.
+ [22 <./figures/2d-to-hex.png>]
+<figures/dirichlet-dist.png, id=581, 590.205pt x 443.40656pt>
+File: figures/dirichlet-dist.png Graphic file (type png)
+<use figures/dirichlet-dist.png>
+Package pdftex.def Info: figures/dirichlet-dist.png  used on input line 67.
+(pdftex.def)             Requested size: 364.00139pt x 273.4681pt.
+ [23] [24 <./figures/dirichlet-dist.png>]
+Overfull \hbox (6.85303pt too wide) in paragraph at lines 91--92
+\T1/bch/m/n/12 Providing the net-work in-for-ma-tion about a board state is, ev
+-ery-thing con-sid-ered, domain-
+ []
+
+) [25]
+\openout2 = `main/5-experiments.aux'.
+
+ (main/5-experiments.tex
+Overfull \hbox (1.7895pt too wide) in paragraph at lines 16--16
+ []|\T1/bch/m/n/10.95 1,000| 
+ []
+
+
+Overfull \hbox (1.7895pt too wide) in paragraph at lines 16--16
+ []|\T1/bch/m/n/10.95 1,000| 
+ []
+
+
+Overfull \hbox (1.7895pt too wide) in paragraph at lines 16--16
+ []|\T1/bch/m/n/10.95 1,000| 
+ []
+
+
+Overfull \hbox (1.7895pt too wide) in paragraph at lines 16--16
+ []|\T1/bch/m/n/10.95 1,000| 
+ []
+
+
+Overfull \hbox (1.7895pt too wide) in paragraph at lines 16--17
+ []|\T1/bch/m/n/10.95 1,000| 
+ []
+
+
+Overfull \hbox (3.76057pt too wide) in paragraph at lines 20--20
+ []|\T1/bch/m/n/10.95 mixed| 
+ []
+
+
+Overfull \hbox (3.76057pt too wide) in paragraph at lines 20--20
+ []|\T1/bch/m/n/10.95 mixed| 
+ []
+
+
+Overfull \hbox (3.76057pt too wide) in paragraph at lines 20--20
+ []|\T1/bch/m/n/10.95 mixed| 
+ []
+
+
+Overfull \hbox (3.76057pt too wide) in paragraph at lines 20--20
+ []|\T1/bch/m/n/10.95 mixed| 
+ []
+
+
+Overfull \hbox (3.76057pt too wide) in paragraph at lines 20--21
+ []|\T1/bch/m/n/10.95 mixed| 
+ []
+
+
+Overfull \hbox (2.57794pt too wide) in paragraph at lines 24--24
+ []|\T1/bch/m/n/10.95 utility| 
+ []
+
+
+Overfull \hbox (2.57794pt too wide) in paragraph at lines 24--24
+ []|\T1/bch/m/n/10.95 utility| 
+ []
+
+
+Overfull \hbox (2.57794pt too wide) in paragraph at lines 24--24
+ []|\T1/bch/m/n/10.95 utility| 
+ []
+
+
+Overfull \hbox (2.57794pt too wide) in paragraph at lines 24--24
+ []|\T1/bch/m/n/10.95 utility| 
+ []
+
+
+Overfull \hbox (0.77122pt too wide) in paragraph at lines 24--24
+ []|\T1/bch/m/n/10.95 mean 
+ []
+
+
+Overfull \hbox (0.77122pt too wide) in paragraph at lines 24--24
+ []|\T1/bch/m/n/10.95 mean 
+ []
+
+
+Overfull \hbox (0.77122pt too wide) in paragraph at lines 24--24
+ []|\T1/bch/m/n/10.95 mean 
+ []
+
+
+Overfull \hbox (0.77122pt too wide) in paragraph at lines 24--24
+ []|\T1/bch/m/n/10.95 mean 
+ []
+
+
+Overfull \hbox (0.77122pt too wide) in paragraph at lines 24--25
+ []|\T1/bch/m/n/10.95 mean 
+ []
+
+[26
+
+
+
+]
+<figures/lossrates-7x7.png, id=626, 735.49782pt x 566.115pt>
+File: figures/lossrates-7x7.png Graphic file (type png)
+<use figures/lossrates-7x7.png>
+Package pdftex.def Info: figures/lossrates-7x7.png  used on input line 42.
+(pdftex.def)             Requested size: 455.0pt x 350.22751pt.
+ [27 <./figures/lossrates-7x7.png>]
+<figures/winrates-7x7.png, id=635, 743.77875pt x 561.59813pt>
+File: figures/winrates-7x7.png Graphic file (type png)
+<use figures/winrates-7x7.png>
+Package pdftex.def Info: figures/winrates-7x7.png  used on input line 56.
+(pdftex.def)             Requested size: 455.0pt x 343.55983pt.
+ [28]
+Overfull \hbox (1.7895pt too wide) in paragraph at lines 77--77
+ []|\T1/bch/m/n/10.95 1,000| 
+ []
+
+
+Overfull \hbox (1.7895pt too wide) in paragraph at lines 77--77
+ []|\T1/bch/m/n/10.95 1,000| 
+ []
+
+
+Overfull \hbox (1.7895pt too wide) in paragraph at lines 77--77
+ []|\T1/bch/m/n/10.95 1,000| 
+ []
+
+
+Overfull \hbox (1.7895pt too wide) in paragraph at lines 77--77
+ []|\T1/bch/m/n/10.95 1,000| 
+ []
+
+
+Overfull \hbox (3.76057pt too wide) in paragraph at lines 81--81
+ []|\T1/bch/m/n/10.95 mixed| 
+ []
+
+
+Overfull \hbox (3.76057pt too wide) in paragraph at lines 81--81
+ []|\T1/bch/m/n/10.95 mixed| 
+ []
+
+
+Overfull \hbox (3.76057pt too wide) in paragraph at lines 81--81
+ []|\T1/bch/m/n/10.95 mixed| 
+ []
+
+
+Overfull \hbox (3.76057pt too wide) in paragraph at lines 81--81
+ []|\T1/bch/m/n/10.95 mixed| 
+ []
+
+
+Overfull \hbox (2.57794pt too wide) in paragraph at lines 85--85
+ []|\T1/bch/m/n/10.95 utility| 
+ []
+
+
+Overfull \hbox (2.57794pt too wide) in paragraph at lines 85--85
+ []|\T1/bch/m/n/10.95 utility| 
+ []
+
+
+Overfull \hbox (0.77122pt too wide) in paragraph at lines 85--85
+ []|\T1/bch/m/n/10.95 mean 
+ []
+
+
+Overfull \hbox (0.77122pt too wide) in paragraph at lines 85--85
+ []|\T1/bch/m/n/10.95 mean 
+ []
+
+[29 <./figures/winrates-7x7.png>]
+<figures/lossrates-9x9.png, id=650, 743.02594pt x 559.33969pt>
+File: figures/lossrates-9x9.png Graphic file (type png)
+<use figures/lossrates-9x9.png>
+Package pdftex.def Info: figures/lossrates-9x9.png  used on input line 104.
+(pdftex.def)             Requested size: 455.0pt x 342.52814pt.
+ [30 <./figures/lossrates-9x9.png>]
+<figures/winrates-9x9.png, id=658, 746.79pt x 566.115pt>
+File: figures/winrates-9x9.png Graphic file (type png)
+<use figures/winrates-9x9.png>
+Package pdftex.def Info: figures/winrates-9x9.png  used on input line 116.
+(pdftex.def)             Requested size: 455.0pt x 344.91501pt.
+ [31 <./figures/winrates-9x9.png>]
+<figures/elo.png, id=669, 436.63126pt x 289.83281pt>
+File: figures/elo.png Graphic file (type png)
+<use figures/elo.png>
+Package pdftex.def Info: figures/elo.png  used on input line 130.
+(pdftex.def)             Requested size: 341.25pt x 226.51976pt.
+ [32 <./figures/elo.png>]) [33]
+\openout2 = `main/6-discussion.aux'.
+
+ (main/6-discussion.tex
+[34
+
+
+
+]) [35]
+\openout2 = `main/7-future-work.aux'.
+
+ (main/7-future-work.tex) [36
+
+
+
+]
+\openout2 = `main/8-related-work.aux'.
+
+ (main/8-related-work.tex) [37
+
+
+
+]
+\openout2 = `main/9-conclusions.aux'.
+
+
+(main/9-conclusions.tex) [38
+
+
+
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 33.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [39
+
+
+]
+Overfull \hbox (20.51581pt too wide) in paragraph at lines 34--34
+\T1/cmtt/m/n/12 technologies / turing -[] architecture / NVIDIA -[] Turing -[] 
+Architecture -[] Whitepaper .
+ []
+
+
+Overfull \hbox (1.70073pt too wide) in paragraph at lines 34--34
+[]\T1/bch/m/n/12 Claude E. Shan-non.   Com-put-ers and Au-tomata. In: \T1/bch
+/m/it/12 Pro-ceed-ings of the IRE \T1/bch/m/n/12 (1953).
+ []
+
+[40] [41]
+\openout2 = `back/appendices.aux'.
+
+ (back/appendices.tex [42
+
+
+] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 75--84
+
+ []
+
+[44]
+<graphics/games/h1-1200-hexy.png, id=791, 736.7525pt x 461.725pt>
+File: graphics/games/h1-1200-hexy.png Graphic file (type png)
+<use graphics/games/h1-1200-hexy.png>
+Package pdftex.def Info: graphics/games/h1-1200-hexy.png  used on input line 96
+.
+(pdftex.def)             Requested size: 341.25pt x 213.86151pt.
+<graphics/games/hexy-h1-1200.png, id=792, 729.72626pt x 458.71375pt>
+File: graphics/games/hexy-h1-1200.png Graphic file (type png)
+<use graphics/games/hexy-h1-1200.png>
+Package pdftex.def Info: graphics/games/hexy-h1-1200.png  used on input line 10
+4.
+(pdftex.def)             Requested size: 341.25pt x 214.51059pt.
+<graphics/games/h2-1200-hexy.png, id=793, 729.72626pt x 460.72125pt>
+File: graphics/games/h2-1200-hexy.png Graphic file (type png)
+<use graphics/games/h2-1200-hexy.png>
+Package pdftex.def Info: graphics/games/h2-1200-hexy.png  used on input line 11
+2.
+(pdftex.def)             Requested size: 341.25pt x 215.44936pt.
+<graphics/games/hexy-h2-1200.png, id=794, 731.73375pt x 462.72874pt>
+File: graphics/games/hexy-h2-1200.png Graphic file (type png)
+<use graphics/games/hexy-h2-1200.png>
+Package pdftex.def Info: graphics/games/hexy-h2-1200.png  used on input line 12
+0.
+(pdftex.def)             Requested size: 341.25pt x 215.79504pt.
+<graphics/games/h2-2400-hexy.png, id=795, 728.7225pt x 458.71375pt>
+File: graphics/games/h2-2400-hexy.png Graphic file (type png)
+<use graphics/games/h2-2400-hexy.png>
+Package pdftex.def Info: graphics/games/h2-2400-hexy.png  used on input line 12
+8.
+(pdftex.def)             Requested size: 341.25pt x 214.80455pt.
+<graphics/games/hexy-h2-2400.png, id=796, 726.715pt x 458.71375pt>
+File: graphics/games/hexy-h2-2400.png Graphic file (type png)
+<use graphics/games/hexy-h2-2400.png>
+Package pdftex.def Info: graphics/games/hexy-h2-2400.png  used on input line 13
+6.
+(pdftex.def)             Requested size: 341.25pt x 215.40651pt.
+<graphics/games/mcts-hexy.png, id=797, 729.72626pt x 459.7175pt>
+File: graphics/games/mcts-hexy.png Graphic file (type png)
+<use graphics/games/mcts-hexy.png>
+Package pdftex.def Info: graphics/games/mcts-hexy.png  used on input line 144.
+(pdftex.def)             Requested size: 341.25pt x 214.97997pt.
+<graphics/games/hexy-mcts.png, id=798, 727.71875pt x 457.71pt>
+File: graphics/games/hexy-mcts.png Graphic file (type png)
+<use graphics/games/hexy-mcts.png>
+Package pdftex.def Info: graphics/games/hexy-mcts.png  used on input line 151.
+(pdftex.def)             Requested size: 341.25pt x 214.64183pt.
+ [45
+
+ <./graphics/games/h1-1200-hexy.png>] [46 <./graphics/games/hexy-h1-1200.png> <
+./graphics/games/h2-1200-hexy.png> <./graphics/games/hexy-h2-1200.png>] [47 <./
+graphics/games/h2-2400-hexy.png> <./graphics/games/hexy-h2-2400.png> <./graphic
+s/games/mcts-hexy.png>] [48 <./graphics/games/hexy-mcts.png>]
+(back/appendix-games.tex [49
+
+]
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 6--11
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:40:16.182317"] [White "H1 0"] [Black "H1
+ 1000"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 12--17
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:35:32.181218"] [White "H1 0"] [Black "H1
+ 1200"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 18--23
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:00:59.765688"] [White "H1 0"] [Black "H1
+ 200"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 24--29
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:52:47.839595"] [White "H1 0"] [Black "H1
+ 400"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 30--35
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:47:33.025522"] [White "H1 0"] [Black "H1
+ 600"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 36--41
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:44:25.662522"] [White "H1 0"] [Black "H1
+ 800"] [Result
+ []
+
+
+Overfull \hbox (38.8794pt too wide) in paragraph at lines 42--47
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:18:02.053649"] [White "H1 0"] [Black "H2
+ 0"] [Result "1-0"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 48--53
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:02:12.021380"] [White "H1 0"] [Black "H2
+ 1000"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 54--59
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:05:27.367748"] [White "H1 0"] [Black "H2
+ 1200"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 60--65
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:34:25.461840"] [White "H1 0"] [Black "H2
+ 200"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 66--71
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:40:59.225788"] [White "H1 0"] [Black "H2
+ 400"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 72--77
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:51:38.370201"] [White "H1 0"] [Black "H2
+ 600"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 78--83
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:56:12.637533"] [White "H1 0"] [Black "H2
+ 800"] [Result
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 84--89
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 11:19:22.907988"] [White "H1 0"] [Black "He
+xy (expert)"]
+ []
+
+
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 90--95
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:18:40.588810"] [White "H1 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+[50
+
+]
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 96--101
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:18:40.604416"] [White "H1 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 102--107
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:18:57.666956"] [White "H1 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 108--113
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:19:09.853848"] [White "H1 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 114--119
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:19:17.010675"] [White "H1 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 120--125
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:42:24.579275"] [White "H1 1000"] [Black 
+"H1 0"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 126--131
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:17:13.807486"] [White "H1 1000"] [Black 
+"H1 1200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 132--137
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:33:37.487876"] [White "H1 1000"] [Black 
+"H1 200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 138--143
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:52:15.775194"] [White "H1 1000"] [Black 
+"H1 400"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 144--149
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:04:44.312286"] [White "H1 1000"] [Black 
+"H1 600"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 150--155
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:11:03.540830"] [White "H1 1000"] [Black 
+"H1 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 156--161
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:49:42.963906"] [White "H1 1000"] [Black 
+"H2 0"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 162--167
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 16:42:20.192982"] [White "H1 1000"] [Black 
+"H2 1000"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 168--173
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 16:49:58.140211"] [White "H1 1000"] [Black 
+"H2 1200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 174--179
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:55:58.736639"] [White "H1 1000"] [Black 
+"H2 200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 180--185
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:58:44.299319"] [White "H1 1000"] [Black 
+"H2 400"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 186--191
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 16:02:07.821846"] [White "H1 1000"] [Black 
+"H2 600"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 192--197
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 16:16:59.550529"] [White "H1 1000"] [Black 
+"H2 800"] [Result
+ []
+
+[51]
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 198--203
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 10:44:23.917748"] [White "H1 1000"] [Black 
+"Hexy (expert)"]
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 204--209
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:45:05.057384"] [White "H1 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 210--215
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:45:05.057384"] [White "H1 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 216--221
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:45:05.073006"] [White "H1 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 222--227
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:45:05.073006"] [White "H1 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 228--233
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:46:34.760707"] [White "H1 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 234--239
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:36:53.984096"] [White "H1 1200"] [Black 
+"H1 0"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 240--245
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:18:41.791167"] [White "H1 1200"] [Black 
+"H1 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 246--251
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:37:55.616850"] [White "H1 1200"] [Black 
+"H1 200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 252--257
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:56:11.139068"] [White "H1 1200"] [Black 
+"H1 400"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 258--263
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:07:47.149950"] [White "H1 1200"] [Black 
+"H1 600"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 264--269
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:14:37.821696"] [White "H1 1200"] [Black 
+"H1 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 270--275
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:01:46.893910"] [White "H1 1200"] [Black 
+"H2 0"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 276--281
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:24:19.784844"] [White "H1 1200"] [Black 
+"H2 1000"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 282--287
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:28:09.587846"] [White "H1 1200"] [Black 
+"H2 1200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 288--293
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:08:31.133450"] [White "H1 1200"] [Black 
+"H2 200"] [Result
+ []
+
+[52]
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 294--299
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:11:14.429410"] [White "H1 1200"] [Black 
+"H2 400"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 300--305
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:18:33.714111"] [White "H1 1200"] [Black 
+"H2 600"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 306--311
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:21:10.588056"] [White "H1 1200"] [Black 
+"H2 800"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 312--317
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:32:04.594733"] [White "H1 1200"] [Black 
+"Hexy (expert)"]
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 318--323
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:42:40.651265"] [White "H1 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 324--329
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:42:40.651265"] [White "H1 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 330--335
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:42:40.651265"] [White "H1 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 336--341
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:42:40.651265"] [White "H1 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 342--347
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:42:40.651265"] [White "H1 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 348--353
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:05:37.641503"] [White "H1 200"] [Black "
+H1 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 354--359
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:31:51.412135"] [White "H1 200"] [Black "
+H1 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 360--365
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:36:01.576174"] [White "H1 200"] [Black "
+H1 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 366--371
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:13:50.637708"] [White "H1 200"] [Black "
+H1 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 372--377
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:21:44.896859"] [White "H1 200"] [Black "
+H1 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 378--383
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:25:54.164797"] [White "H1 200"] [Black "
+H1 800"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 384--389
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:12:56.530194"] [White "H1 200"] [Black "
+H2 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 390--395
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:01:21.668023"] [White "H1 200"] [Black "
+H2 1000"] [Result
+ []
+
+[53]
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 396--401
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:04:06.247964"] [White "H1 200"] [Black "
+H2 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 402--407
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:24:14.961188"] [White "H1 200"] [Black "
+H2 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 408--413
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:29:14.146946"] [White "H1 200"] [Black "
+H2 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 414--419
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:43:49.905060"] [White "H1 200"] [Black "
+H2 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 420--425
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:49:26.232096"] [White "H1 200"] [Black "
+H2 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 426--431
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 11:09:45.249564"] [White "H1 200"] [Black "
+Hexy (expert)"]
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 432--437
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:24:27.332784"] [White "H1 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 438--443
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:24:48.102509"] [White "H1 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 444--449
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:24:48.102509"] [White "H1 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 450--455
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:25:10.354975"] [White "H1 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 456--461
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:25:17.712629"] [White "H1 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 462--467
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:54:45.391561"] [White "H1 400"] [Black "
+H1 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 468--473
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:50:40.457760"] [White "H1 400"] [Black "
+H1 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 474--479
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:54:21.634212"] [White "H1 400"] [Black "
+H1 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 480--485
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:16:21.902774"] [White "H1 400"] [Black "
+H1 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 486--491
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:40:32.028441"] [White "H1 400"] [Black "
+H1 600"] [Result
+ []
+
+[54]
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 492--497
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:45:31.974640"] [White "H1 400"] [Black "
+H1 800"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 498--503
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:09:55.067215"] [White "H1 400"] [Black "
+H2 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 504--509
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:55:15.115340"] [White "H1 400"] [Black "
+H2 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 510--515
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:58:37.408960"] [White "H1 400"] [Black "
+H2 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 516--521
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:17:16.425484"] [White "H1 400"] [Black "
+H2 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 522--527
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:33:07.603515"] [White "H1 400"] [Black "
+H2 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 528--533
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:42:11.015936"] [White "H1 400"] [Black "
+H2 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 534--539
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:51:28.645154"] [White "H1 400"] [Black "
+H2 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 540--545
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 11:00:59.853297"] [White "H1 400"] [Black "
+Hexy (expert)"]
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 546--551
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:28:25.855082"] [White "H1 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 552--557
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:28:25.855082"] [White "H1 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 558--563
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:28:59.447215"] [White "H1 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 564--569
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:29:19.134569"] [White "H1 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 570--575
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:29:25.525917"] [White "H1 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 576--581
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:49:06.149342"] [White "H1 600"] [Black "
+H1 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 582--587
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:03:02.597588"] [White "H1 600"] [Black "
+H1 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 588--593
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:06:35.548619"] [White "H1 600"] [Black "
+H1 1200"] [Result
+ []
+
+[55]
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 594--599
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:23:29.382711"] [White "H1 600"] [Black "
+H1 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 600--605
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:42:29.981300"] [White "H1 600"] [Black "
+H1 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 606--611
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:58:51.619405"] [White "H1 600"] [Black "
+H1 800"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 612--617
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:01:56.357969"] [White "H1 600"] [Black "
+H2 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 618--623
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:10:06.162725"] [White "H1 600"] [Black "
+H2 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 624--629
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:16:27.884458"] [White "H1 600"] [Black "
+H2 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 630--635
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:05:49.103323"] [White "H1 600"] [Black "
+H2 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 636--641
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:26:46.469500"] [White "H1 600"] [Black "
+H2 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 642--647
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:32:29.221552"] [White "H1 600"] [Black "
+H2 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 648--653
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:38:34.369554"] [White "H1 600"] [Black "
+H2 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 654--659
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 10:55:25.661114"] [White "H1 600"] [Black "
+Hexy (expert)"]
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 660--665
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:34:28.558310"] [White "H1 600"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 666--671
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:34:28.558310"] [White "H1 600"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 672--677
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:34:28.558310"] [White "H1 600"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 678--683
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:34:40.604243"] [White "H1 600"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 684--689
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:34:48.214014"] [White "H1 600"] [Black "
+baseline MCTS
+ []
+
+[56]
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 690--695
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 01:45:46.255690"] [White "H1 800"] [Black "
+H1 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 696--701
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:09:53.813889"] [White "H1 800"] [Black "
+H1 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 702--707
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:13:13.493125"] [White "H1 800"] [Black "
+H1 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 708--713
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:27:56.283170"] [White "H1 800"] [Black "
+H1 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 714--719
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 02:47:26.097647"] [White "H1 800"] [Black "
+H1 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 720--725
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 03:00:38.215981"] [White "H1 800"] [Black "
+H1 600"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 726--731
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:19:10.024845"] [White "H1 800"] [Black "
+H2 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 732--737
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:37:27.712918"] [White "H1 800"] [Black "
+H2 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 738--743
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:44:43.571846"] [White "H1 800"] [Black "
+H2 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 744--749
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:21:56.319896"] [White "H1 800"] [Black "
+H2 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 750--755
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:25:15.466545"] [White "H1 800"] [Black "
+H2 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 756--761
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:28:25.947237"] [White "H1 800"] [Black "
+H2 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 762--767
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:31:14.881409"] [White "H1 800"] [Black "
+H2 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 768--773
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 10:50:55.653867"] [White "H1 800"] [Black "
+Hexy (expert)"]
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 774--779
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:38:46.260174"] [White "H1 800"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 780--785
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:38:46.260174"] [White "H1 800"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 786--791
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:38:46.260174"] [White "H1 800"] [Black "
+baseline MCTS
+ []
+
+[57]
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 792--797
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:38:46.260174"] [White "H1 800"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 798--803
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:39:16.806424"] [White "H1 800"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (38.8794pt too wide) in paragraph at lines 804--809
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:22:49.043012"] [White "H2 0"] [Black "H1
+ 0"] [Result "0-1"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 810--815
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:50:57.945914"] [White "H2 0"] [Black "H1
+ 1000"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 816--821
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:02:56.634249"] [White "H2 0"] [Black "H1
+ 1200"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 822--827
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:16:55.377829"] [White "H2 0"] [Black "H1
+ 200"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 828--833
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:11:45.947415"] [White "H2 0"] [Black "H1
+ 400"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 834--839
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:03:29.041255"] [White "H2 0"] [Black "H1
+ 600"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 840--845
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:20:27.925181"] [White "H2 0"] [Black "H1
+ 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 846--851
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 18:16:00.131347"] [White "H2 0"] [Black "H2
+ 1000"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 852--857
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 18:23:06.836811"] [White "H2 0"] [Black "H2
+ 1200"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 858--863
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:36:33.805391"] [White "H2 0"] [Black "H2
+ 200"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 864--869
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:57:30.025009"] [White "H2 0"] [Black "H2
+ 400"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 870--875
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 18:02:50.400062"] [White "H2 0"] [Black "H2
+ 600"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 876--881
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 18:09:31.757944"] [White "H2 0"] [Black "H2
+ 800"] [Result
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 882--887
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:55:07.322349"] [White "H2 0"] [Black "He
+xy (expert)"]
+ []
+
+[58]
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 888--893
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:01:43.497182"] [White "H2 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 894--899
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:02:27.255355"] [White "H2 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 900--905
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:02:27.264330"] [White "H2 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 906--911
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:02:27.270314"] [White "H2 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+
+Overfull \hbox (51.22638pt too wide) in paragraph at lines 912--917
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:03:57.200339"] [White "H2 0"] [Black "ba
+seline MCTS (10000)"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 918--923
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:03:16.041876"] [White "H2 1000"] [Black 
+"H1 0"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 924--929
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 16:43:26.649989"] [White "H2 1000"] [Black 
+"H1 1000"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 930--935
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:25:29.698274"] [White "H2 1000"] [Black 
+"H1 1200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 936--941
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:02:27.358103"] [White "H2 1000"] [Black 
+"H1 200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 942--947
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:56:27.429037"] [White "H2 1000"] [Black 
+"H1 400"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 948--953
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:11:39.530498"] [White "H2 1000"] [Black 
+"H1 600"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 954--959
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:39:01.619823"] [White "H2 1000"] [Black 
+"H1 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 960--965
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 18:17:12.711501"] [White "H2 1000"] [Black 
+"H2 0"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 966--971
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:52:50.482337"] [White "H2 1000"] [Black 
+"H2 1200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 972--977
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:04:16.499386"] [White "H2 1000"] [Black 
+"H2 200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 978--983
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:20:55.376087"] [White "H2 1000"] [Black 
+"H2 400"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 984--989
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:34:38.374534"] [White "H2 1000"] [Black 
+"H2 600"] [Result
+ []
+
+[59]
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 990--995
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:46:41.443999"] [White "H2 1000"] [Black 
+"H2 800"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 996--1001
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:34:03.560715"] [White "H2 1000"] [Black 
+"Hexy (expert)"]
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1002--1007
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:37:11.119733"] [White "H2 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1008--1013
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:37:11.119733"] [White "H2 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1014--1019
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:38:05.167156"] [White "H2 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1020--1025
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:38:28.776160"] [White "H2 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1026--1031
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:38:34.933132"] [White "H2 1000"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1032--1037
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:06:30.271782"] [White "H2 1200"] [Black 
+"H1 0"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 1038--1043
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 16:52:19.424215"] [White "H2 1200"] [Black 
+"H1 1000"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 1044--1049
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:30:08.724156"] [White "H2 1200"] [Black 
+"H1 1200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1050--1055
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:05:12.658036"] [White "H2 1200"] [Black 
+"H1 200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1056--1061
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:59:55.343055"] [White "H2 1200"] [Black 
+"H1 400"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1062--1067
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:17:29.655175"] [White "H2 1200"] [Black 
+"H1 600"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1068--1073
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:45:47.774608"] [White "H2 1200"] [Black 
+"H1 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1074--1079
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 18:24:05.282108"] [White "H2 1200"] [Black 
+"H2 0"] [Result
+ []
+
+
+Overfull \hbox (32.7059pt too wide) in paragraph at lines 1080--1085
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:53:56.549862"] [White "H2 1200"] [Black 
+"H2 1000"] [Result
+ []
+
+[60]
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1086--1091
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:07:47.940280"] [White "H2 1200"] [Black 
+"H2 200"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1092--1097
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:24:11.714057"] [White "H2 1200"] [Black 
+"H2 400"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1098--1103
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:40:32.561448"] [White "H2 1200"] [Black 
+"H2 600"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1104--1109
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:49:42.504255"] [White "H2 1200"] [Black 
+"H2 800"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1110--1115
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 21:21:12.539584"] [White "H2 1200"] [Black 
+"Hexy (expert)"]
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1116--1121
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:37:15.573231"] [White "H2 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1122--1127
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:37:15.588859"] [White "H2 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1128--1133
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:37:15.588859"] [White "H2 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1134--1139
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:38:27.299880"] [White "H2 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1140--1145
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:39:17.845539"] [White "H2 1200"] [Black 
+"baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1146--1151
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:38:08.022169"] [White "H2 200"] [Black "
+H1 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1152--1157
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:57:17.242368"] [White "H2 200"] [Black "
+H1 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1158--1163
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:09:42.379815"] [White "H2 200"] [Black "
+H1 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1164--1169
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:26:39.417151"] [White "H2 200"] [Black "
+H1 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1170--1175
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:20:14.891179"] [White "H2 200"] [Black "
+H1 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1176--1181
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:06:58.723383"] [White "H2 200"] [Black "
+H1 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1182--1187
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:23:05.159472"] [White "H2 200"] [Black "
+H1 800"] [Result
+ []
+
+[61]
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1188--1193
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:39:06.194345"] [White "H2 200"] [Black "
+H2 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1194--1199
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:02:53.799600"] [White "H2 200"] [Black "
+H2 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1200--1205
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:06:23.946481"] [White "H2 200"] [Black "
+H2 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1206--1211
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 19:37:58.649780"] [White "H2 200"] [Black "
+H2 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1212--1217
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 19:51:43.070046"] [White "H2 200"] [Black "
+H2 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1218--1223
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 19:58:56.502966"] [White "H2 200"] [Black "
+H2 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1224--1229
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:49:48.225323"] [White "H2 200"] [Black "
+Hexy (expert)"]
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1230--1235
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:10:19.915231"] [White "H2 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1236--1241
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:10:19.915231"] [White "H2 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1242--1247
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:10:37.714643"] [White "H2 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1248--1253
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:10:50.088972"] [White "H2 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1254--1259
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:11:12.306826"] [White "H2 200"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1260--1265
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:43:28.096093"] [White "H2 400"] [Black "
+H1 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1266--1271
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 16:00:03.034333"] [White "H2 400"] [Black "
+H1 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1272--1277
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:12:19.280726"] [White "H2 400"] [Black "
+H1 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1278--1283
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:31:36.460845"] [White "H2 400"] [Black "
+H1 200"] [Result
+ []
+
+[62]
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1284--1289
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:36:26.887341"] [White "H2 400"] [Black "
+H1 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1290--1295
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:28:05.013734"] [White "H2 400"] [Black "
+H1 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1296--1301
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:26:25.602439"] [White "H2 400"] [Black "
+H1 800"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1302--1307
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 18:00:13.711542"] [White "H2 400"] [Black "
+H2 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1308--1313
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:19:48.910016"] [White "H2 400"] [Black "
+H2 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1314--1319
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:23:02.826862"] [White "H2 400"] [Black "
+H2 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1320--1325
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 19:40:51.415719"] [White "H2 400"] [Black "
+H2 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1326--1331
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:11:06.952598"] [White "H2 400"] [Black "
+H2 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1332--1337
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:16:25.499412"] [White "H2 400"] [Black "
+H2 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1338--1343
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:47:56.645525"] [White "H2 400"] [Black "
+Hexy (expert)"]
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1344--1349
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 01:53:08.964588"] [White "H2 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1350--1355
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 01:53:42.352498"] [White "H2 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1356--1361
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 01:54:07.982731"] [White "H2 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1362--1367
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 01:54:23.983133"] [White "H2 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1368--1373
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 01:54:33.587679"] [White "H2 400"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1374--1379
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:53:50.397971"] [White "H2 600"] [Black "
+H1 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1380--1385
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 16:03:12.867684"] [White "H2 600"] [Black "
+H1 1000"] [Result
+ []
+
+[63]
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1386--1391
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:19:56.132408"] [White "H2 600"] [Black "
+H1 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1392--1397
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:46:18.748371"] [White "H2 600"] [Black "
+H1 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1398--1403
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:44:50.676984"] [White "H2 600"] [Black "
+H1 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1404--1409
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:33:53.693622"] [White "H2 600"] [Black "
+H1 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1410--1415
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:29:33.447871"] [White "H2 600"] [Black "
+H1 800"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1416--1421
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 18:05:12.506428"] [White "H2 600"] [Black "
+H2 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1422--1427
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:33:28.861372"] [White "H2 600"] [Black "
+H2 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1428--1433
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:39:22.641265"] [White "H2 600"] [Black "
+H2 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1434--1439
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 19:54:52.597051"] [White "H2 600"] [Black "
+H2 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1440--1445
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:14:13.752723"] [White "H2 600"] [Black "
+H2 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1446--1451
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:27:31.334969"] [White "H2 600"] [Black "
+H2 800"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1452--1457
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:41:40.104597"] [White "H2 600"] [Black "
+Hexy (expert)"]
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1458--1463
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:22:18.846887"] [White "H2 600"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1464--1469
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:23:45.218737"] [White "H2 600"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1470--1475
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:23:45.225720"] [White "H2 600"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1476--1481
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:24:04.370231"] [White "H2 600"] [Black "
+baseline MCTS
+ []
+
+[64]
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1482--1487
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:24:15.209869"] [White "H2 600"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1488--1493
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 11:57:49.187781"] [White "H2 800"] [Black "
+H1 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1494--1499
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 16:18:09.759736"] [White "H2 800"] [Black "
+H1 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1500--1505
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 17:22:21.994861"] [White "H2 800"] [Black "
+H1 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1506--1511
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 12:51:08.722830"] [White "H2 800"] [Black "
+H1 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1512--1517
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 13:53:13.295249"] [White "H2 800"] [Black "
+H1 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1518--1523
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 14:39:39.566583"] [White "H2 800"] [Black "
+H1 600"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1524--1529
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 15:33:46.090942"] [White "H2 800"] [Black "
+H1 800"] [Result
+ []
+
+
+Overfull \hbox (8.01193pt too wide) in paragraph at lines 1530--1535
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 18:10:44.714358"] [White "H2 800"] [Black "
+H2 0"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1536--1541
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:45:01.503258"] [White "H2 800"] [Black "
+H2 1000"] [Result
+ []
+
+
+Overfull \hbox (26.53241pt too wide) in paragraph at lines 1542--1547
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:48:36.688568"] [White "H2 800"] [Black "
+H2 1200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1548--1553
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:00:50.518710"] [White "H2 800"] [Black "
+H2 200"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1554--1559
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:17:58.554177"] [White "H2 800"] [Black "
+H2 400"] [Result
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1560--1565
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:29:13.304363"] [White "H2 800"] [Black "
+H2 600"] [Result
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1566--1571
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:39:44.619948"] [White "H2 800"] [Black "
+Hexy (expert)"]
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1572--1577
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 22:50:53.064157"] [White "H2 800"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1578--1583
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 22:51:21.390933"] [White "H2 800"] [Black "
+baseline MCTS
+ []
+
+[65]
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1584--1589
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 22:51:43.392037"] [White "H2 800"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1590--1595
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 22:52:14.919537"] [White "H2 800"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1596--1601
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 22:52:23.427685"] [White "H2 800"] [Black "
+baseline MCTS
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1602--1607
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 11:13:52.380183"] [White "Hexy (expert)"] [
+Black "H1 0"]
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1608--1613
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 10:41:49.833849"] [White "Hexy (expert)"] [
+Black "H1 1000"]
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1614--1619
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 20:50:54.049995"] [White "Hexy (expert)"] [
+Black "H1 1200"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1620--1625
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 11:05:28.249879"] [White "Hexy (expert)"] [
+Black "H1 200"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1626--1631
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 10:58:58.375600"] [White "Hexy (expert)"] [
+Black "H1 400"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1632--1637
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 10:53:44.967204"] [White "Hexy (expert)"] [
+Black "H1 600"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1638--1643
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 10:48:33.760192"] [White "Hexy (expert)"] [
+Black "H1 800"]
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1644--1649
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:53:24.084149"] [White "Hexy (expert)"] [
+Black "H2 0"]
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1650--1655
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:36:26.855174"] [White "Hexy (expert)"] [
+Black "H2 1000"]
+ []
+
+
+Overfull \hbox (20.35892pt too wide) in paragraph at lines 1656--1661
+[]\T1/cmtt/m/n/12 [Date "2019-05-13 21:06:27.171413"] [White "Hexy (expert)"] [
+Black "H2 1200"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1662--1667
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:51:22.188190"] [White "Hexy (expert)"] [
+Black "H2 200"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1668--1673
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:45:44.645733"] [White "Hexy (expert)"] [
+Black "H2 400"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1674--1679
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:44:06.485569"] [White "Hexy (expert)"] [
+Black "H2 600"]
+ []
+
+[66]
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1680--1685
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:38:06.636263"] [White "Hexy (expert)"] [
+Black "H2 800"]
+ []
+
+
+Overfull \hbox (14.18542pt too wide) in paragraph at lines 1686--1691
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:21:30.100800"] [White "Hexy (expert)"] [
+Black "baseline
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1692--1697
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:25:52.572498"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1698--1703
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:25:00.194543"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1704--1709
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:25:45.103260"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1710--1715
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:25:45.103260"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1716--1721
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:25:45.103260"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1722--1727
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:53:38.712920"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1728--1733
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:52:10.253143"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1734--1739
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:52:10.253143"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1740--1745
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:52:10.253143"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1746--1751
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 15:52:10.253143"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1752--1757
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:48:46.912760"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1758--1763
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:48:21.329588"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1764--1769
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:48:21.329588"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1770--1775
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:48:21.329588"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1776--1781
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 14:48:46.912760"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+[67]
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1782--1787
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:31:49.166070"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1788--1793
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:31:03.117375"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1794--1799
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:31:25.792915"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1800--1805
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:31:41.682054"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1806--1811
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 19:31:41.682054"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1812--1817
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:36:33.026753"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1818--1823
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:35:34.571555"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1824--1829
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:35:34.587179"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1830--1835
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:36:10.384647"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1836--1841
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 18:36:33.011147"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1842--1847
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:41:11.963739"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1848--1853
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:40:25.883406"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1854--1859
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:40:47.853666"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1860--1865
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:40:47.869270"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1866--1871
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 17:41:11.963739"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1872--1877
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:47:57.958607"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+[68]
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1878--1883
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:44:57.916689"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1884--1889
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:47:14.135619"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1890--1895
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:47:28.639137"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1896--1901
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 16:47:28.639137"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1902--1907
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:18:32.217553"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1908--1913
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:16:31.551184"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1914--1919
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:17:35.449375"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1920--1925
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:18:14.515424"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1926--1931
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 12:18:14.520411"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1932--1937
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:47:27.150651"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1938--1943
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:46:04.073363"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1944--1949
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:47:04.635865"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1950--1955
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:47:07.838226"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1956--1961
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 21:47:14.916927"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1962--1967
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:45:57.962804"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1968--1973
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:44:48.321889"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1974--1979
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:44:48.321889"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+[69]
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1980--1985
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:44:48.321889"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1986--1991
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 20:44:48.337511"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1992--1997
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:20:06.166007"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 1998--2003
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:18:27.433739"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2004--2009
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:19:04.658886"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2010--2015
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:19:35.500932"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2016--2021
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 03:19:55.376761"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2022--2027
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 02:05:04.934470"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2028--2033
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 02:03:25.853726"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2034--2039
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 02:04:05.819965"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2040--2045
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 02:04:34.975040"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2046--2051
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 02:04:53.810576"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2052--2057
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:38:53.216327"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2058--2063
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:37:53.836024"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2064--2069
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:37:53.840013"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2070--2075
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:38:21.416679"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+[70]
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2076--2081
+[]\T1/cmtt/m/n/12 [Date "2019-05-11 00:38:41.656941"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2082--2087
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 23:01:24.962699"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2088--2093
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 23:00:48.379174"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2094--2099
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 23:00:48.385157"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2100--2105
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 23:00:48.394134"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2106--2111
+[]\T1/cmtt/m/n/12 [Date "2019-05-10 23:00:48.399121"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+)
+Overfull \hbox (1.83844pt too wide) in paragraph at lines 2112--249
+[]\T1/cmtt/m/n/12 [Date "2019-05-14 03:29:46.853607"] [White "baseline MCTS (10
+000)"] [Black
+ []
+
+[71]
+<figures/loss-2400.png, id=929, 447.17062pt x 337.26pt>
+File: figures/loss-2400.png Graphic file (type png)
+<use figures/loss-2400.png>
+Package pdftex.def Info: figures/loss-2400.png  used on input line 255.
+(pdftex.def)             Requested size: 409.49722pt x 308.85233pt.
+) [72
+
+ <./figures/loss-2400.png>]
+\tf@toc=\write6
+\openout6 = `report.toc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
+ (report.aux (front/titlepage.aux)
+(front/abstract.aux) (front/preface.aux) (front/acknowledgements.aux)
+(main/1-introduction.aux) (main/2-problem-analysis.aux) (main/3-methods.aux)
+(main/4-implementation.aux) (main/5-experiments.aux) (main/6-discussion.aux)
+(main/7-future-work.aux) (main/8-related-work.aux) (main/9-conclusions.aux)
+(back/appendices.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 9E7ED7690031B66F33E76760EFD0D69A;3797.
+Package logreq Info: Writing requests to 'report.run.xml'.
+\openout1 = `report.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
+ ) 
+Here is how much of TeX's memory you used:
+ 22884 strings out of 492945
+ 373480 string characters out of 3135511
+ 915131 words of memory out of 3000000
+ 26128 multiletter control sequences out of 15000+200000
+ 127919 words of font info for 73 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,12n,79p,1457b,3024s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\kaneda\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
+\ectt1200.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Progr
+am Files/MiKTeX 2.9/fonts/enc/dvips/fira/fir_ggqhxd.enc}<C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/fira/FiraSans-Light.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/bitstrea/charter/bchbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea
+/charter/bchr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/b
+chr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchri8a.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb>
+Output written on report.pdf (78 pages, 1406218 bytes).
+PDF statistics:
+ 1106 PDF objects out of 1200 (max. 8388607)
+ 223 named destinations out of 1000 (max. 500000)
+ 613 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,121 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abstract}{i}{chapter*.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{ii}{chapter*.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Contents}{iv}{section*.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Problem definition}{2}{section.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {2}Background and Analysis}{3}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Learning agent}{3}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Tree Search}{3}{section.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}DeepMind's AlphaZero}{4}{section.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Consumer grade hardware}{5}{section.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Hex}{6}{section.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Complexity}{7}{subsection.2.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Strategies and AI agents}{7}{subsection.2.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Validating performance}{8}{section.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Recapitulation}{9}{section.2.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {3}Methods}{10}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Residual Neural Network}{10}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Network anatomy}{11}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Monte Carlo tree search}{12}{section.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}MCTS with neural network}{14}{section.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}The algorithm}{14}{section.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.1}Self-play}{15}{subsection.3.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.2}Training}{16}{subsection.3.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.3}Training targets}{16}{subsection.3.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Half-precision}{17}{section.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {4}Implementation}{19}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Software environment}{19}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Implementation strategy}{19}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Optimization}{20}{section.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Numba}{20}{subsection.4.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Playing and training in batches}{20}{subsection.4.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Half-precision}{21}{subsection.4.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Hex}{21}{section.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}The learning agent algorithm}{22}{section.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.1}Mitigating horizon effect}{23}{subsection.4.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.2}Network structure}{24}{subsection.4.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.3}Training}{24}{subsection.4.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.4}Network input}{25}{subsection.4.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.5}Other parameters}{25}{subsection.4.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {5}Experiments}{26}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}7x7 board}{26}{section.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Training losses}{27}{subsection.5.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Win rates against MCTS}{28}{subsection.5.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}9x9 board}{29}{section.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Training losses}{30}{subsection.5.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Win rates against MCTS}{31}{subsection.5.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Performance against Hexy}{32}{subsection.5.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {6}Discussion}{34}{chapter.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {7}Future work}{36}{chapter.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {8}Related work}{37}{chapter.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{38}{chapter.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{39}{section*.28}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendices}{42}{section*.28}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Software user guide}{42}{section.Alph0.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Selected matches against Hexy}{45}{section.Alph0.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C}Bayesian Elo estimation tables}{49}{section.Alph0.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {D}Game results used in Elo estimation}{50}{section.Alph0.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {E}Training loss rate for H2 after 2400 training iterations}{72}{section.Alph0.5}% 
+\contentsfinish 

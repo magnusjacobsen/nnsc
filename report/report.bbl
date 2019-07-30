@@ -1,0 +1,1096 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Abrams2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=27636ff3b9e5256ad274cc598d3084aa}{%
+           family={Abrams},
+           familyi={A\bibinitperiod},
+           given={Vish\bibnamedelima Ishaya},
+           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{27636ff3b9e5256ad274cc598d3084aa}
+      \strng{fullhash}{27636ff3b9e5256ad274cc598d3084aa}
+      \strng{bibnamehash}{27636ff3b9e5256ad274cc598d3084aa}
+      \strng{authorbibnamehash}{27636ff3b9e5256ad274cc598d3084aa}
+      \strng{authornamehash}{27636ff3b9e5256ad274cc598d3084aa}
+      \strng{authorfullhash}{27636ff3b9e5256ad274cc598d3084aa}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Medium - Oracle Developers}
+      \field{title}{{Lessons From AlphaZero (part 4): Improving the Training TargetNo Title}}
+      \field{urlday}{10}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/oracledevs/lessons-from-alphazero-part-4-improving-the-training-target-6efba2e71628
+      \endverb
+      \verb{url}
+      \verb https://medium.com/oracledevs/lessons-from-alphazero-part-4-improving-the-training-target-6efba2e71628
+      \endverb
+    \endentry
+    \entry{Anshelevich2000}{article}{}
+      \name{author}{1}{}{%
+        {{hash=41776586f24f1685d584cbdf8299265e}{%
+           family={Anshelevich},
+           familyi={A\bibinitperiod},
+           given={Vadim\bibnamedelima V},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{41776586f24f1685d584cbdf8299265e}
+      \strng{fullhash}{41776586f24f1685d584cbdf8299265e}
+      \strng{bibnamehash}{41776586f24f1685d584cbdf8299265e}
+      \strng{authorbibnamehash}{41776586f24f1685d584cbdf8299265e}
+      \strng{authornamehash}{41776586f24f1685d584cbdf8299265e}
+      \strng{authorfullhash}{41776586f24f1685d584cbdf8299265e}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract The game of Hex is a two-player game with simple rules, a deep underlying mathematical beauty, and a strategic complexity comparable to that of Chess and Go. The massive game -tree search techniques developed mostly for Chess, and successfully used for Checkers, ...}
+      \field{journaltitle}{Scientific American}
+      \field{title}{{The Game of Hex : An Automatic Theorem Proving Approach to Game Programming}}
+      \field{year}{2000}
+    \endentry
+    \entry{AnthonyThomasandTianZhengandBarber2017}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=f0b65a45db475f2a562a286133673bb3}{%
+           family={Anthony},
+           familyi={A\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6b7202dcd8e0e6aedf57c713bdb308f8}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9a97f74e5fb11fe785cbe0a83fc5276c}{%
+           family={Barber},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{7}{}{%
+        {{hash=914c00b0993e151d352eba1950162821}{%
+           family={Garnett},
+           familyi={G\bibinitperiod},
+           given={I.\bibnamedelimi Guyon},
+           giveni={I\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=56e73897155d476124481b099f125669}{%
+           family={Luxburg},
+           familyi={L\bibinitperiod},
+           given={U.\bibnamedelimi V.},
+           giveni={U\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=9b411b6c9cefdde16ffea77ecf612142}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1444141e07dd9549dbb4b8530fe4ec15}{%
+           family={Wallach},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f3857e15544199442f3d4fb2cf6645b4}{%
+           family={Fergus},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c73f06e2fc98c9b0bf52eb5fdce61943}{%
+           family={Vishwanathan},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e1e1d3d40573127e9ee0480caf1283d6}{%
+           family={R.},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{435e4a3114c96bea235522a546e051b4}
+      \strng{fullhash}{435e4a3114c96bea235522a546e051b4}
+      \strng{bibnamehash}{435e4a3114c96bea235522a546e051b4}
+      \strng{authorbibnamehash}{435e4a3114c96bea235522a546e051b4}
+      \strng{authornamehash}{435e4a3114c96bea235522a546e051b4}
+      \strng{authorfullhash}{435e4a3114c96bea235522a546e051b4}
+      \strng{editorbibnamehash}{88c707373f994a9a2783042a9976a917}
+      \strng{editornamehash}{88c707373f994a9a2783042a9976a917}
+      \strng{editorfullhash}{5bf55b3bf0654b8f7beb71663d45a77f}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems 30}
+      \field{title}{{Thinking Fast and Slow with Deep Learning and Tree Search}}
+      \field{year}{2017}
+      \field{pages}{5360\bibrangedash 5370}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb http://papers.nips.cc/paper/7120-thinking-fast-and-slow-with-deep-learning-and-tree-search.pdf
+      \endverb
+      \verb{url}
+      \verb http://papers.nips.cc/paper/7120-thinking-fast-and-slow-with-deep-learning-and-tree-search.pdf
+      \endverb
+    \endentry
+    \entry{Campbell2002}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0b29c33e62b9ff91d2cb5e73984c8017}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Murray},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1ee11fcd414bf4c15bef7cbff8ebca99}{%
+           family={Hoane},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi Joseph},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b2ca46d4037538807d99a1b02135b176}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Feng\bibnamedelima Hsiung},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b070e92f90fcc32dbdbd87fb5c517ed}
+      \strng{fullhash}{9b070e92f90fcc32dbdbd87fb5c517ed}
+      \strng{bibnamehash}{9b070e92f90fcc32dbdbd87fb5c517ed}
+      \strng{authorbibnamehash}{9b070e92f90fcc32dbdbd87fb5c517ed}
+      \strng{authornamehash}{9b070e92f90fcc32dbdbd87fb5c517ed}
+      \strng{authorfullhash}{9b070e92f90fcc32dbdbd87fb5c517ed}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Deep Blue is the chess machine that defeated then-reigning World Chess Champion Garry Kasparov in a six-game match in 1997. There were a number of factors that contributed to this success, including: a single-chip chess search engine, a massively parallel system with multiple levels of parallelism, a strong emphasis on search extensions, a complex evaluation function, and effective use of a Grandmaster game database. This paper describes the Deep Blue system, and gives some of the rationale that went into the design decisions behind Deep Blue. {©} 2001 Elsevier Science B.V. All rights reserved.}
+      \field{issn}{00043702}
+      \field{journaltitle}{Artificial Intelligence}
+      \field{title}{{Deep Blue}}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.1016/S0004-3702(01)00129-1
+      \endverb
+      \keyw{Computer chess,Evaluation function,Game tree search,Parallel search,Search extensions,Selective search}
+    \endentry
+    \entry{Chaslot2008}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=88eb1e576de5a9b6aaa28958d45e312c}{%
+           family={Chaslot},
+           familyi={C\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+        {{hash=96d3ebd2db7318125c5e855d49e9f15d}{%
+           family={Bakkes},
+           familyi={B\bibinitperiod},
+           given={Sander},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bf4b701f65716cea462cf5ab50261113}{%
+           family={Szitai},
+           familyi={S\bibinitperiod},
+           given={Istvan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=748ba76dc4d6f0727cd40ad1099239ed}{%
+           family={Spronck},
+           familyi={S\bibinitperiod},
+           given={Pieter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2ece9d7834cc790237bca7c3ec944c3}
+      \strng{fullhash}{c1c282233cc4ea4de7be08785cf452f4}
+      \strng{bibnamehash}{b2ece9d7834cc790237bca7c3ec944c3}
+      \strng{authorbibnamehash}{b2ece9d7834cc790237bca7c3ec944c3}
+      \strng{authornamehash}{b2ece9d7834cc790237bca7c3ec944c3}
+      \strng{authorfullhash}{c1c282233cc4ea4de7be08785cf452f4}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Classic approaches to game AI require either a high quality of domain knowledge, or a long time to generate effective AI behaviour. These two characteristics hamper the goal of establishing challenging game AI. In this paper, we put forward Monte-Carlo Tree Search as a novel, uniﬁed framework to game AI. In the framework, randomized explorations of the search space are used to predict the most promising game actions. We will demonstrate that Monte-Carlo Tree Search can be applied effectively to (1) classic board-games, (2) modern board-games, and (3) video games.}
+      \field{booktitle}{Belgian/Netherlands Artificial Intelligence Conference}
+      \field{issn}{15687805}
+      \field{title}{{Monte-carlo tree search: A New Framework for Game AI1}}
+      \field{year}{2008}
+    \endentry
+    \entry{Committee2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d25fea1e9a956e8dc4cb6f3b9ee1f51d}{%
+           family={Committee},
+           familyi={C\bibinitperiod},
+           given={Microprocessor\bibnamedelima Standards},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d25fea1e9a956e8dc4cb6f3b9ee1f51d}
+      \strng{fullhash}{d25fea1e9a956e8dc4cb6f3b9ee1f51d}
+      \strng{bibnamehash}{d25fea1e9a956e8dc4cb6f3b9ee1f51d}
+      \strng{authorbibnamehash}{d25fea1e9a956e8dc4cb6f3b9ee1f51d}
+      \strng{authornamehash}{d25fea1e9a956e8dc4cb6f3b9ee1f51d}
+      \strng{authorfullhash}{d25fea1e9a956e8dc4cb6f3b9ee1f51d}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This standard specifies interchange and arithmetic formats and methods for binary and decimal floating-point arithmetic in computer programming environments. This standard specifies exception conditions and their default handling. An implementation of a floating-point system conforming to this standard may be realized entirely in software, entirely in hardware, or in any combination of software and hardware. For operations specified in the normative part of this standard, numerical results and exceptions are uniquely determined by the values of the input data, sequence of operations, and destination formats, all under user control.}
+      \field{issn}{01419331}
+      \field{journaltitle}{IEEE Std 7542008}
+      \field{title}{{IEEE Standard for Floating-Point Arithmetic}}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1109/IEEESTD.2008.4610935
+      \endverb
+    \endentry
+    \entry{Coulom}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ae7c83876ac79093e7c8ec77de300a9c}{%
+           family={Coulom},
+           familyi={C\bibinitperiod},
+           given={R{é}mi},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{fullhash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{bibnamehash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{authorbibnamehash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{authornamehash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{authorfullhash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Bayesian Elo Rating}}
+      \field{urlday}{10}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.remi-coulom.fr/Bayesian-Elo/
+      \endverb
+      \verb{url}
+      \verb https://www.remi-coulom.fr/Bayesian-Elo/
+      \endverb
+    \endentry
+    \entry{Coulom2009}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=ae7c83876ac79093e7c8ec77de300a9c}{%
+           family={Coulom},
+           familyi={C\bibinitperiod},
+           given={R{é}mi},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{fullhash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{bibnamehash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{authorbibnamehash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{authornamehash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \strng{authorfullhash}{ae7c83876ac79093e7c8ec77de300a9c}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Japanese-French Frontiers of Science Symposium}
+      \field{title}{{The Monte-Carlo Revolution in Go [presentation]}}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://www.remi-coulom.fr/JFFoS/JFFoS.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.remi-coulom.fr/JFFoS/JFFoS.pdf
+      \endverb
+    \endentry
+    \entry{GlobalInterpreterLock2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=378c6582b198954e87ec7111a1b0bb46}{%
+           family={GlobalInterpreterLock},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{378c6582b198954e87ec7111a1b0bb46}
+      \strng{fullhash}{378c6582b198954e87ec7111a1b0bb46}
+      \strng{bibnamehash}{378c6582b198954e87ec7111a1b0bb46}
+      \strng{authorbibnamehash}{378c6582b198954e87ec7111a1b0bb46}
+      \strng{authornamehash}{378c6582b198954e87ec7111a1b0bb46}
+      \strng{authorfullhash}{378c6582b198954e87ec7111a1b0bb46}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Python Wiki}
+      \field{title}{{GlobalInterpreterLock}}
+      \field{urlday}{11}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://wiki.python.org/moin/GlobalInterpreterLock
+      \endverb
+      \verb{url}
+      \verb https://wiki.python.org/moin/GlobalInterpreterLock
+      \endverb
+    \endentry
+    \entry{Hale2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=35bb7153a3e2636b0b7338d952f3b7d0}{%
+           family={Hale},
+           familyi={H\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{35bb7153a3e2636b0b7338d952f3b7d0}
+      \strng{fullhash}{35bb7153a3e2636b0b7338d952f3b7d0}
+      \strng{bibnamehash}{35bb7153a3e2636b0b7338d952f3b7d0}
+      \strng{authorbibnamehash}{35bb7153a3e2636b0b7338d952f3b7d0}
+      \strng{authornamehash}{35bb7153a3e2636b0b7338d952f3b7d0}
+      \strng{authorfullhash}{35bb7153a3e2636b0b7338d952f3b7d0}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Towards Data Science}
+      \field{title}{{Which Deep Learning Framework is Growing Fastest?}}
+      \field{urlday}{13}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/which-deep-learning-framework-is-growing-fastest-3f77f14aa318
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/which-deep-learning-framework-is-growing-fastest-3f77f14aa318
+      \endverb
+    \endentry
+    \entry{HeKaimingandZhangXiangyuandRenShaoqingandSun2016}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6b4b60e909e78633945f3f9c9dc83e01}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Kaiming},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5e72bc22dbcf0984c6d113d280e36990}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiangyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bb295293acacd54387339079ebbe4ead}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Shaoqing},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f85751488058842b5777c7b4074077b5}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{fullhash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \strng{bibnamehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{authorbibnamehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{authornamehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{authorfullhash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth. On the ImageNet dataset we evaluate residual nets with a depth of up to 152 layers---8x deeper than VGG nets but still having lower complexity. An ensemble of these residual nets achieves 3.57{\%} error on the ImageNet test set. This result won the 1st place on the ILSVRC 2015 classification task. We also present analysis on CIFAR-10 with 100 and 1000 layers. The depth of representations is of central importance for many visual recognition tasks. Solely due to our extremely deep representations, we obtain a 28{\%} relative improvement on the COCO object detection dataset. Deep residual nets are foundations of our submissions to ILSVRC {\&} COCO 2015 competitions, where we also won the 1st places on the tasks of ImageNet detection, ImageNet localization, COCO detection, and COCO segmentation.}
+      \field{booktitle}{The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{eprinttype}{arXiv}
+      \field{title}{{Deep Residual Learning for Image Recognition}}
+      \field{year}{2015}
+      \field{pages}{770\bibrangedash 778}
+      \range{pages}{9}
+      \verb{eprint}
+      \verb 1512.03385
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1512.03385
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1512.03385
+      \endverb
+    \endentry
+    \entry{He2016}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6b4b60e909e78633945f3f9c9dc83e01}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Kaiming},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5e72bc22dbcf0984c6d113d280e36990}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiangyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bb295293acacd54387339079ebbe4ead}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Shaoqing},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f85751488058842b5777c7b4074077b5}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{fullhash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \strng{bibnamehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{authorbibnamehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{authornamehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{authorfullhash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Deep residual networks have emerged as a family of extremely deep architectures showing compelling accuracy and nice convergence behaviors. In this paper, we analyze the propagation formulations behind the residual building blocks, which suggest that the forward and backward signals can be directly propagated from one block to any other block, when using identity mappings as the skip connections and after-addition activation. A series of ablation experiments support the importance of these identity mappings. This motivates us to propose a new residual unit, which makes training easier and improves generalization. We report improved results using a 1001-layer ResNet on CIFAR-10 (4.62{\%} error) and CIFAR-100, and a 200-layer ResNet on ImageNet. Code is available at: https://github.com/KaimingHe/resnet-1k-layers}
+      \field{booktitle}{Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}
+      \field{isbn}{9783319464923}
+      \field{issn}{16113349}
+      \field{title}{{Identity mappings in deep residual networks}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1007/978-3-319-46493-0_38
+      \endverb
+    \endentry
+    \entry{Huang2014}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=7c7b53f5e23616694113729cd315cf16}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Shih\bibnamedelima Chieh},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=219e763a4f51340fb9a1f71e9941b358}{%
+           family={Arneson},
+           familyi={A\bibinitperiod},
+           given={Broderick},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a98f34d795da574bc7df4111af58948b}{%
+           family={Hayward},
+           familyi={H\bibinitperiod},
+           given={Ryan\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=0dcea0cd627a8d4179152c91c35ef969}{%
+           family={M{ü}ller},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a84d1be84b01af6c0cbc0a3570391baa}{%
+           family={Pawlewicz},
+           familyi={P\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b63016c3c234f5afe833b33917b89921}
+      \strng{fullhash}{4334be7d74390a9e27fe1677c638500d}
+      \strng{bibnamehash}{b63016c3c234f5afe833b33917b89921}
+      \strng{authorbibnamehash}{b63016c3c234f5afe833b33917b89921}
+      \strng{authornamehash}{b63016c3c234f5afe833b33917b89921}
+      \strng{authorfullhash}{4334be7d74390a9e27fe1677c638500d}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years the Monte Carlo tree search revolution has spread from computer Go to many areas, including computer Hex. MCTS-based Hex players now outperform traditional knowledge-based alpha-beta search players, and the reigning Computer Olympiad Hex gold medallist is the MCTS player MoHex. In this paper we show how to strengthen MoHex, and observe that - as in computer Go - using learned patterns in priors and replacing a hand-crafted simulation policy by a softmax policy that uses learned patterns significantly increases playing strength. The result is MoHex 2.0, about 250 Elo points stronger than MoHex on the 11 × 11 board, and 300 Elo points stronger on the 13 × 13 board. {©} 2014 Springer International Publishing Switzerland.}
+      \field{booktitle}{Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}
+      \field{isbn}{9783319091648}
+      \field{issn}{16113349}
+      \field{title}{{MoHex 2.0: A pattern-based MCTS Hex player}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1007/978-3-319-09165-5_6
+      \endverb
+    \endentry
+    \entry{John2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cf39d77b8354a2e2938c8b7443898f6e}{%
+           family={John},
+           familyi={J\bibinitperiod},
+           given={Anto},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf39d77b8354a2e2938c8b7443898f6e}
+      \strng{fullhash}{cf39d77b8354a2e2938c8b7443898f6e}
+      \strng{bibnamehash}{cf39d77b8354a2e2938c8b7443898f6e}
+      \strng{authorbibnamehash}{cf39d77b8354a2e2938c8b7443898f6e}
+      \strng{authornamehash}{cf39d77b8354a2e2938c8b7443898f6e}
+      \strng{authorfullhash}{cf39d77b8354a2e2938c8b7443898f6e}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Compare two deep learning frameworks: TensorFlow and Pytorch}}
+      \field{urlday}{11}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developer.ibm.com/blogs/two-famous-deep-learning-frameworks-compared-tensorflow-vs-pytorch/
+      \endverb
+      \verb{url}
+      \verb https://developer.ibm.com/blogs/two-famous-deep-learning-frameworks-compared-tensorflow-vs-pytorch/
+      \endverb
+    \endentry
+    \entry{Kennedy2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6bc0df90129de23223c04db56e402a9}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6bc0df90129de23223c04db56e402a9}
+      \strng{fullhash}{b6bc0df90129de23223c04db56e402a9}
+      \strng{bibnamehash}{b6bc0df90129de23223c04db56e402a9}
+      \strng{authorbibnamehash}{b6bc0df90129de23223c04db56e402a9}
+      \strng{authornamehash}{b6bc0df90129de23223c04db56e402a9}
+      \strng{authorfullhash}{b6bc0df90129de23223c04db56e402a9}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Case Study on the Google TPU and GDDR5 from Hot Chips 29}}
+      \field{urlday}{7}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.servethehome.com/case-study-google-tpu-gddr5-hot-chips-29/
+      \endverb
+      \verb{url}
+      \verb https://www.servethehome.com/case-study-google-tpu-gddr5-hot-chips-29/
+      \endverb
+    \endentry
+    \entry{Kocsis2006}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=38e4d8f3816645f33342266d60a42d10}{%
+           family={Kocsis},
+           familyi={K\bibinitperiod},
+           given={Levente},
+           giveni={L\bibinitperiod}}}%
+        {{hash=98b0d29966f947460b3eb25590bfa7b5}{%
+           family={Szepesv{á}ri},
+           familyi={S\bibinitperiod},
+           given={Csaba},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2a501acf3375269bdf09c94a3f59cae}
+      \strng{fullhash}{d2a501acf3375269bdf09c94a3f59cae}
+      \strng{bibnamehash}{d2a501acf3375269bdf09c94a3f59cae}
+      \strng{authorbibnamehash}{d2a501acf3375269bdf09c94a3f59cae}
+      \strng{authornamehash}{d2a501acf3375269bdf09c94a3f59cae}
+      \strng{authorfullhash}{d2a501acf3375269bdf09c94a3f59cae}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{For large state-space Markovian Decision Problems Monte-Carlo planning is one of the few viable approaches to find near-optimal solutions. In this paper we introduce a new algorithm, UCT, that applies bandit ideas to guide Monte-Carlo planning. In finite-horizon or discounted MDPs the algorithm is shown to be consistent and finite sample bounds are derived on the estimation error due to sampling. Experimental results show that in several domains, UCT is significantly more efficient than its alternatives.}
+      \field{title}{{Bandit Based Monte-Carlo Planning}}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1007/11871842_29
+      \endverb
+    \endentry
+    \entry{McCarthy2006}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=627c3779677d0eaf3312e5b67e8cbe0c}{%
+           family={McCarthy},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{627c3779677d0eaf3312e5b67e8cbe0c}
+      \strng{fullhash}{627c3779677d0eaf3312e5b67e8cbe0c}
+      \strng{bibnamehash}{627c3779677d0eaf3312e5b67e8cbe0c}
+      \strng{authorbibnamehash}{627c3779677d0eaf3312e5b67e8cbe0c}
+      \strng{authornamehash}{627c3779677d0eaf3312e5b67e8cbe0c}
+      \strng{authorfullhash}{627c3779677d0eaf3312e5b67e8cbe0c}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Dartmouth Workshop--as planned and as it happened}}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html
+      \endverb
+      \verb{url}
+      \verb http://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html
+      \endverb
+    \endentry
+    \entry{Micikevicius2018}{inproceedings}{}
+      \name{author}{11}{}{%
+        {{hash=d7c3b32c10d0f73ef681b6074aa1cdd4}{%
+           family={Micikevicius},
+           familyi={M\bibinitperiod},
+           given={Paulius},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a2da348cbbad750c6fe76dda9c35ffcd}{%
+           family={Narang},
+           familyi={N\bibinitperiod},
+           given={Sharan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2775ac930f1eb8512a1187294d6fcb98}{%
+           family={Alben},
+           familyi={A\bibinitperiod},
+           given={Jonah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fe0b5c62f5fbbcbe8b3b69115795d3e5}{%
+           family={Diamos},
+           familyi={D\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6aa92a937d4d30dd0b5ec0eecbad1bf1}{%
+           family={Elsen},
+           familyi={E\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod}}}%
+        {{hash=390131310e5498d8c5fa5414afdc5f26}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=57b6ee8703cf89267a2d51429a4e61a7}{%
+           family={Ginsburg},
+           familyi={G\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e9b08b237b71fda19c9d090f30b37e4b}{%
+           family={Houston},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bf07d85e23f5d109ed19745b901d2ce8}{%
+           family={Kuchaiev},
+           familyi={K\bibinitperiod},
+           given={Oleksii},
+           giveni={O\bibinitperiod}}}%
+        {{hash=d3fa1f906f9b4c19fe8931015c8908da}{%
+           family={Venkatesh},
+           familyi={V\bibinitperiod},
+           given={Ganesh},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d0d5a12b1f5bae45ea7780158b3b35c8}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC, Canada}%
+      }
+      \strng{namehash}{edba223ee55e56879fca40d7bf77b7dc}
+      \strng{fullhash}{fc75d779136c36bfa2f39068ce45bbba}
+      \strng{bibnamehash}{edba223ee55e56879fca40d7bf77b7dc}
+      \strng{authorbibnamehash}{edba223ee55e56879fca40d7bf77b7dc}
+      \strng{authornamehash}{edba223ee55e56879fca40d7bf77b7dc}
+      \strng{authorfullhash}{fc75d779136c36bfa2f39068ce45bbba}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Increasing the size of a neural network typically improves accuracy but also increases the memory and compute requirements for training the model. We introduce methodology for training deep neural networks using half-precision floating point numbers, without losing model accuracy or having to modify hyper-parameters. This nearly halves memory requirements and, on recent GPUs, speeds up arithmetic. Weights, activations, and gradients are stored in IEEE half-precision format. Since this format has a narrower range than single-precision we propose three techniques for preventing the loss of critical information. Firstly, we recommend maintaining a single-precision copy of weights that accumulates the gradients after each optimizer step (this copy is rounded to half-precision for the forward- and back-propagation). Secondly, we propose loss-scaling to preserve gradient values with small magnitudes. Thirdly, we use half-precision arithmetic that accumulates into single-precision outputs, which are converted to half-precision before storing to memory. We demonstrate that the proposed methodology works across a wide variety of tasks and modern large scale (exceeding 100 million parameters) model architectures, trained on large datasets.}
+      \field{booktitle}{Proceedings of the 6th International Conference on Learning Representations (ICLR 2018)}
+      \field{eprinttype}{arXiv}
+      \field{title}{{Mixed Precision Training}}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1710.03740
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1710.03740
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1710.03740
+      \endverb
+      \keyw{Convolutional neural networks,Half precision,Recurrent neural networks,float16}
+    \endentry
+    \entry{NVIDIACorporation2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9ad14fae09b617d96cb4af76c555b394}{%
+           family={{NVIDIA Corporation}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Nvidia}%
+      }
+      \strng{namehash}{9ad14fae09b617d96cb4af76c555b394}
+      \strng{fullhash}{9ad14fae09b617d96cb4af76c555b394}
+      \strng{bibnamehash}{9ad14fae09b617d96cb4af76c555b394}
+      \strng{authorbibnamehash}{9ad14fae09b617d96cb4af76c555b394}
+      \strng{authornamehash}{9ad14fae09b617d96cb4af76c555b394}
+      \strng{authorfullhash}{9ad14fae09b617d96cb4af76c555b394}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nvidia Turing Architecture}
+      \field{booktitle}{White Paper}
+      \field{title}{{NVIDIA Turing GPU Architecture}}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf
+      \endverb
+    \endentry
+    \entry{Russell2010}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=143fa183327d9fcd9de18eec99d6ca97}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5de798d5fa3c0236c0478134cd23f52a}{%
+           family={Norvig},
+           familyi={N\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education, Inc}%
+      }
+      \strng{namehash}{b280605b721b4ebcba5395298499f924}
+      \strng{fullhash}{b280605b721b4ebcba5395298499f924}
+      \strng{bibnamehash}{b280605b721b4ebcba5395298499f924}
+      \strng{authorbibnamehash}{b280605b721b4ebcba5395298499f924}
+      \strng{authornamehash}{b280605b721b4ebcba5395298499f924}
+      \strng{authorfullhash}{b280605b721b4ebcba5395298499f924}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The long-anticipated revision of this {\#}1 selling book offers the most comprehensive, state of the art introduction to the theory and practice of artificial intelligence for modern applications.Intelligent Agents. Solving Problems by Searching. Informed Search Methods. Game Playing. Agents that Reason Logically. First-order Logic. Building a Knowledge Base. Inference in First-Order Logic. Logical Reasoning Systems. Practical Planning. Planning and Acting. Uncertainty. Probabilistic Reasoning Systems. Making Simple Decisions. Making Complex Decisions. Learning from Observations. Learning with Neural Networks. Reinforcement Learning. Knowledge in Learning. Agents that Communicate. Practical Communication in English. Perception. Robotics.For computer professionals, linguists, and cognitive scientists interested in artificial intelligence.}
+      \field{booktitle}{Artificial Intelligence - A Modern Approach (3rd ed)}
+      \field{chapter}{1}
+      \field{isbn}{0136042597}
+      \field{issn}{00070610}
+      \field{title}{{Introduction}}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 29}
+      \range{pages}{29}
+    \endentry
+    \entry{Sedgewick2011}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=6a9c16ef79ae932cd7e8bc985da5a937}{%
+           family={Sedgewick},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e1a92f1c9f96cee95b961648633c39f3}{%
+           family={Wayne},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{edfb19f5da0b049e901748a2f782f877}
+      \strng{fullhash}{edfb19f5da0b049e901748a2f782f877}
+      \strng{bibnamehash}{edfb19f5da0b049e901748a2f782f877}
+      \strng{authorbibnamehash}{edfb19f5da0b049e901748a2f782f877}
+      \strng{authornamehash}{edfb19f5da0b049e901748a2f782f877}
+      \strng{authorfullhash}{edfb19f5da0b049e901748a2f782f877}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Algorithms, Fourth Edition}
+      \field{chapter}{1}
+      \field{isbn}{9780321573513}
+      \field{issn}{14337851}
+      \field{title}{{Fundamentals}}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1002/1521-3773(20010316)40:6<9823::AID-ANIE9823>3.3.CO;2-C
+      \endverb
+    \endentry
+    \entry{Shannon1953}{article}{}
+      \name{author}{1}{}{%
+        {{hash=536c91678d1dde76c9acd47047556291}{%
+           family={Shannon},
+           familyi={S\bibinitperiod},
+           given={Claude\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{536c91678d1dde76c9acd47047556291}
+      \strng{fullhash}{536c91678d1dde76c9acd47047556291}
+      \strng{bibnamehash}{536c91678d1dde76c9acd47047556291}
+      \strng{authorbibnamehash}{536c91678d1dde76c9acd47047556291}
+      \strng{authornamehash}{536c91678d1dde76c9acd47047556291}
+      \strng{authorfullhash}{536c91678d1dde76c9acd47047556291}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper reviews briefly some of the recent developments in the field of automata and nonnumerical computation. A number of typical machines are described, including logic machines, game-playing machines and learning machines. Some theoretical questions and developments are discussed, such as a comparison of computers and the brain, Turing's formulation of computing machines and von Neumann's models of self-reproducing machines.}
+      \field{issn}{00968390}
+      \field{journaltitle}{Proceedings of the IRE}
+      \field{title}{{Computers and Automata}}
+      \field{year}{1953}
+      \verb{doi}
+      \verb 10.1109/JRPROC.1953.274273
+      \endverb
+    \endentry
+    \entry{Silver2018}{article}{}
+      \name{author}{13}{}{%
+        {{hash=89dbd30410c2085cd059f32c57d4593e}{%
+           family={Silver},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=80c63e95a9e243591a33a7e3156f1d78}{%
+           family={Hubert},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8fad8df927bc0014c0bd6a9feb7aa71d}{%
+           family={Schrittwieser},
+           familyi={S\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=af540e84ef1ecdaa70b1f7c90f59fd7d}{%
+           family={Antonoglou},
+           familyi={A\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f311ac3fec4a3d3207fdec17a9887704}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4131bd14e5ca890278ecd351e356dc34}{%
+           family={Guez},
+           familyi={G\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3075d0e02c0833f6e5fe1addb880898f}{%
+           family={Lanctot},
+           familyi={L\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=50d24de916599d306c5cb1a77156e4b9}{%
+           family={Sifre},
+           familyi={S\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a425c81c03d315597e3f92690763e24d}{%
+           family={Kumaran},
+           familyi={K\bibinitperiod},
+           given={Dharshan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=368b9b2de627b852658c433b062d4e1e}{%
+           family={Graepel},
+           familyi={G\bibinitperiod},
+           given={Thore},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3a6fdf4df9a25f1d2d506ad9e86e1f6c}{%
+           family={Lillicrap},
+           familyi={L\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9d16b7284df92c9adaee86c37ab992df}{%
+           family={Simonyan},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b160026950ebb1e2286dfb40c15482f5}{%
+           family={Hassabis},
+           familyi={H\bibinitperiod},
+           given={Demis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{fullhash}{016fd7164d5ebbbf1e175ef34971d5fa}
+      \strng{bibnamehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{authorbibnamehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{authornamehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{authorfullhash}{016fd7164d5ebbbf1e175ef34971d5fa}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The game of chess is the longest-studied domain in the history of artificial intelligence. The strongest programs are based on a combination of sophisticated search techniques, domain-specific adaptations, and handcrafted evaluation functions that have been refined by human experts over several decades. By contrast, the AlphaGo Zero program recently achieved superhuman performance in the game of Go by reinforcement learning from self-play. In this paper, we generalize this approach into a single AlphaZero algorithm that can achieve superhuman performance in many challenging games. Starting from random play and given no domain knowledge except the game rules, AlphaZero convincingly defeated a world champion program in the games of chess and shogi (Japanese chess), as well as Go.}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{title}{{A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play}}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1126/science.aar6404
+      \endverb
+    \endentry
+    \entry{Silver2017}{article}{}
+      \name{author}{17}{}{%
+        {{hash=89dbd30410c2085cd059f32c57d4593e}{%
+           family={Silver},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8fad8df927bc0014c0bd6a9feb7aa71d}{%
+           family={Schrittwieser},
+           familyi={S\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9d16b7284df92c9adaee86c37ab992df}{%
+           family={Simonyan},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=af540e84ef1ecdaa70b1f7c90f59fd7d}{%
+           family={Antonoglou},
+           familyi={A\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ba4b200ce1412a2570cb113366cc9559}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Aja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4131bd14e5ca890278ecd351e356dc34}{%
+           family={Guez},
+           familyi={G\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=80c63e95a9e243591a33a7e3156f1d78}{%
+           family={Hubert},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fe79638c2bf15e9cd4021e09ca0fa07b}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f311ac3fec4a3d3207fdec17a9887704}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fa98d81082da72fd49892566108f9cbe}{%
+           family={Bolton},
+           familyi={B\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5759ff4990bdd8c6f85835738834874a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yutian},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3a6fdf4df9a25f1d2d506ad9e86e1f6c}{%
+           family={Lillicrap},
+           familyi={L\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=59f6c5b7be30cd01647770d56f297a69}{%
+           family={Hui},
+           familyi={H\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=50d24de916599d306c5cb1a77156e4b9}{%
+           family={Sifre},
+           familyi={S\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b191bc2284a9e448d810afab3553cb9e}{%
+           family={{Van Den Driessche}},
+           familyi={V\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=368b9b2de627b852658c433b062d4e1e}{%
+           family={Graepel},
+           familyi={G\bibinitperiod},
+           given={Thore},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b160026950ebb1e2286dfb40c15482f5}{%
+           family={Hassabis},
+           familyi={H\bibinitperiod},
+           given={Demis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{fullhash}{0b4efbb523bb486841bf2f2bbfbebf75}
+      \strng{bibnamehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{authorbibnamehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{authornamehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{authorfullhash}{0b4efbb523bb486841bf2f2bbfbebf75}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Starting from zero knowledge and without human data, AlphaGo Zero was able to teach itself to play Go and to develop novel strategies that provide new insights into the oldest of games.}
+      \field{issn}{14764687}
+      \field{journaltitle}{Nature}
+      \field{title}{{Mastering the game of Go without human knowledge}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1038/nature24270
+      \endverb
+    \endentry
+    \entry{Mitchell1997}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=f190fecfbce6297db3075ab11df5e47d}{%
+           family={{Tom M. Mitchell}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Science}%
+      }
+      \strng{namehash}{f190fecfbce6297db3075ab11df5e47d}
+      \strng{fullhash}{f190fecfbce6297db3075ab11df5e47d}
+      \strng{bibnamehash}{f190fecfbce6297db3075ab11df5e47d}
+      \strng{authorbibnamehash}{f190fecfbce6297db3075ab11df5e47d}
+      \strng{authornamehash}{f190fecfbce6297db3075ab11df5e47d}
+      \strng{authorfullhash}{f190fecfbce6297db3075ab11df5e47d}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Machine Learning}
+      \field{chapter}{1}
+      \field{edition}{1st}
+      \field{title}{{Introduction}}
+      \field{year}{1997}
+      \field{pages}{1\bibrangedash 19}
+      \range{pages}{19}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

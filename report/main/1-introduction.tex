@@ -1,0 +1,20 @@
+\chapter{Introduction}
+
+Since the advent of the computer science subfield of artificial intelligence (AI) in the 1940s and 50s, solving problems in the form of abstract games, have had a great deal of interest from researchers. At the 1956 summer workshop at Dartmouth College, where the term \textit{artificial intelligence} was coined, participants discussed ways to let a computer agent play chess and checkers, with some form of what came to be known as the \textit{minimax} and \textit{Alpha-beta pruning} algorithms\cite{McCarthy2006, Russell2010}.
+
+The interest in solving games was not merely for the amusement associated with the intellectual exercise. Abstract strategy games, such as chess and checker, presents a confined world of discrete actions, with full observability of the game state, and obvious goals to strive for. Because of this, it has proved to be a well-suited environment to apply and test AI systems, systems that might even be applicable to other more complex settings, whether purely abstract or related to the physical.
+
+Early on, researchers split into two camps with different approaches to AI: a more general purpose approach that imitates the human nervous system, what we today call an artificial neural network; and an engineering approach that has a focus on particular tasks and goals for the artificial agent, and apply domain-specifics rules into the systems\cite{McCarthy2006}.
+
+General interest in neural networks and self-learning machines from researchers faded in the 1960s and 70s, as the engineering approach showed better results. In the mid-1980s, the proliferation of ever more powerful computers gave rise to a new and increasing enthusiasm from researchers and developers. Although many of the ideas and the mathematical methods go back to the time around the inception of AI, the field is flourishing today, both in terms of research and application. Developments in Graphical Processing Units (GPU) and Tensor Processing Units (TPU) have allowed for faster - and more parallel arithmetic operations, and the development in storage units has allowed for larger quantities of data to be stored\cite{Russell2010}.
+
+The areas where AI is applied and researched today are manifold, from planning and scheduling, robots, self-driving vehicles, language processing and translation, image analysis, to name a few. However, abstract games are still an area of active research which provides insights that goes beyond the particular game.
+
+\section{Problem definition}
+Until recently, the most skilled artificial intelligence agents for adversarial games have depended on built-in domain-specific knowledge. With AlphaZero, DeepMind has shown that it is possible for an algorithm, starting from tabula rasa, to learn how to master the games of Go, Shogi and Chess through self-play\cite{Silver2018}.
+
+The aim of this project is to expand on the research in this field, by adopting a similar approach as AlphaZero to the game of Hex. Hex, like Chess, Go, and Shogi, is a two-player adversarial abstract strategy game, with perfect information. More specifically, examining the efficiency of artificial intelligence agents, comprised of reinforcement learning, using a combination of neural networks and Monte Carlo Tree Search; trained through self-play; and only with the rules of the game as domain-specific input.
+
+Unlike DeepMind with AlphaZero, this project will make use of general-purpose hardware to run the AI, both for training and playing. Different configurations of the AI on different variations of the game will be tested.
+
+Ultimately, the project will answer the following question: Is it possible for an AI agent, based on the described approach and constraints, to gain a skill-level making it competitive against state-of-the-art game-specific AI agents for the game Hex?

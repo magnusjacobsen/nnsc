@@ -1,0 +1,84 @@
+\documentclass[12pt, a4paper, oneside]{memoir}
+
+\setlrmarginsandblock{2.5cm}{2.5cm}{*}
+\setulmarginsandblock{1.5cm}{1.5cm}{*}
+\checkandfixthelayout%
+
+\usepackage[utf8]{inputenc}
+\usepackage[hyphens]{url} 
+\usepackage{hyperref}
+\setlength\parindent{0pt}%removes indentation of first line in paragraphs
+\setlength{\parskip}{12pt} % adds extra space after a paragraph
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\usepackage{caption}
+    
+\usepackage{amsmath}
+\DeclareMathVersion{mathpazo}
+
+\interfootnotelinepenalty=10000
+
+% installing fonts https://www.tug.org/fonts/fontinstall.html
+% initexmf --edit-config-file updmap
+% Map fontname.map
+% initexmf --mkmaps
+\usepackage[light]{FiraSans}
+\usepackage[T1]{fontenc}
+\usepackage{charter}
+\usepackage[T1]{fontenc}
+
+\usepackage{listings} % if I want pseudo code
+\usepackage{balance} % not completely sure if this is needed
+\usepackage{pdfpages} % could become useful
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[format=plain,
+            font={footnotesize,it}]{caption}
+\usepackage{subcaption}
+\usepackage{booktabs} % tables
+\usepackage[backend=biber]{biblatex}
+\usepackage{titletoc}
+
+% remove the word 'Chapter' from chapters
+\usepackage{titlesec}
+\titleformat{\chapter}[hang]
+	{\normalfont\sffamily\Huge}
+	{\thechapter.}{1em}{}
+\titleformat{name=\chapter,numberless}[display] % for the toc title
+  	{\normalfont\sffamily\Huge}
+  	{}
+  	{0pt}
+  	{}
+\titleformat{\section}
+  	{\normalfont\sffamily\Large}
+  	{\thesection.}{1em}{}
+\titleformat{\subsection}
+  	{\normalfont\sffamily\large}
+  	{\thesubsection.}{1em}{}
+\titleformat{\subsubsection}
+  	{\normalfont\sffamily\large}
+  	{\thesubsubsection.}{0.9em}{}
+  	  
+  	
+% Table of contents
+\renewcommand\printtoctitle[1]{\Huge\sffamily #1}
+\setcounter{tocdepth}{2}              % Depth of table of content
+\setcounter{secnumdepth}{2}           % Depth of section numbering
+\setcounter{maxsecnumdepth}{4} % Max depth of section numbering
+
+\newcommand{\citep}[1]{\cite{#1}} % I'm tired of unintentially choosing citep, and then get undefined control sequence error
+\usepackage{xcolor}
+\newcommand{\note}[1]{\textcolor{orange}{note: #1}}
+
+\usepackage{chngcntr}
+
+% footers and headers
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+%\fancyhf{}
+%\lhead{Magnus Jacobsen}
+%\rhead{Exam submission (Bachelor thesis) - Spring 2019}
+%\rfoot{Page \thepage}
